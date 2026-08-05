@@ -1,0 +1,5079 @@
+{
+  "generated_at_utc": "2026-08-05T11:10:26.450762Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_original_s_a5106f",
+      "title": "Did Burroughs Draw a Craft or Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Interpretations of Burroughs's Sketch",
+        "Visual Features in Burroughs's Sketch",
+        "Omissions in Burroughs's Original Statement"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.4,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35",
+      "title": "Rendlesham Forest",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Time line",
+        "Conventional Explanations for Rendlesham Lights",
+        "Evidence Analysis of Rendlesham Forest"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+      "title": "Does the Evidence Support an Alien Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Rendlesham Forest Evidence Analysis",
+        "Contemporary Records of Rendlesham"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_halt_later_claims_vs_53784e",
+      "title": "Did Halt's Story Become More Extraordinary Later?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Documentation Time line",
+        "Halt's Records vs. Later Interpretations",
+        "Evidence in the 'Unexplained Lights' Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_official_file_not_ve_487819",
+      "title": "Did the Government File Confirm an Alien Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mo D Rendlesham Forest Processing Key Stages",
+        "Rendlesham Documentation vs. Verification",
+        "Halt Memorandum Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_orford_ness_lighthou_113010",
+      "title": "Were the Rendlesham Lights Really the Lighthouse?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of Orford Ness Light house",
+        "Rendlesham Forest Light Interpretations",
+        "Light house Explanation Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_binary_not_ec1e41",
+      "title": "Did Penniston's Binary Message Come From Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Binary Notebook Time line",
+        "Interpretations of the Binary Message",
+        "Authentication Requirements for the Notebook"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_expanding_e16bf7",
+      "title": "How Penniston's Craft Story Grew Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Penniston's Rendlesham Testimony",
+        "Interpretations of Expanding Testimony",
+        "Key Elements of the Expanded Craft Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_suffolk_police_findi_ce6208",
+      "title": "What Did Police Find in Rendlesham Forest?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Suffolk Constabulary Investigation Time line",
+        "Rendlesham Forest Observation Discrepancies",
+        "Police Record Evidential Value"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+      "title": "How the Twin Bases Shaped the Rendlesham Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Security Response at RAF Woodbridge",
+        "Bentwaters vs. Woodbridge Roles",
+        "Institutional Layers of the Incident"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_british_authority_tw_3f831c",
+      "title": "Who Had Final Authority Over the Twin Bases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "USAF Reporting Chain for Rendlesham Forest",
+        "USAF vs. Mo D Jurisdictional Boundaries",
+        "Mo D Defense Significance Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_east_gate_geography_8e7323",
+      "title": "Which Base Border Did the Sighting Cross?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Woodbridge Sighting",
+        "Interpretations of the East Gate Lights",
+        "Geography of the Twin Bases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_security_command_cha_862404",
+      "title": "How Did an East Gate Alarm Reach Command?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Reporting Chain",
+        "Initial Security Assessment Criteria",
+        "Bentwaters Woodbridge Command Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_twin_bases_structure_b70d65",
+      "title": "How Two Airfields Became One Military Complex",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "81 st Tactical Fighter Wing Evolution",
+        "Bentwaters vs. Woodbridge Capabilities",
+        "Bentwaters Shared Identity Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_visual_radar_divide_0ccf8e",
+      "title": "Why Did Witnesses See Lights Radar Missed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAF Woodbridge Security Response Key Stages",
+        "Visual vs. Radar Evidence Discrepancy",
+        "Rendlesham Forest Radar Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_woodbridge_operation_08085c",
+      "title": "Was Woodbridge Really Just Bentwaters' Satellite?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "RAF Woodbridge Operational Infrastructure",
+        "Woodbridge vs. Bentwaters Roles",
+        "A 10 Squadrons at Woodbridge"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+      "title": "Could Bright Stars Explain Halt's Sky Objects?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Atmospheric Scintillation Mechanism",
+        "Rendlesham Forest Aerial Lights Analysis",
+        "Sirius Star Characteristics in Suffolk"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_autokinesis_star_mot_1a4c52",
+      "title": "Can a Stationary Star Appear to Dart?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Autokinetic Illusion",
+        "Autokinesis vs. Physical Motion",
+        "Rendlesham Forest Environmental Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_memorandum_evid_07411f",
+      "title": "How Strong Is Halt's Written Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Official Reporting Path",
+        "Halt Memorandum Evidential Strengths vs Weaknesses",
+        "Omissions in the Halt Memorandum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_northern_lights_05e99e",
+      "title": "Why the Northern Lights Resist Identification",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Halt Memorandum Observation Details",
+        "Retrospective Sky Chart Capabilities",
+        "Missing Data for Northern Pair"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_hours_long_light_dur_a23214",
+      "title": "What Does a Two Hour Light Suggest?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_genealogy",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Light Interpretations",
+        "Halt Memorandum Light Durations",
+        "Star Observation Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_low_star_colour_flas_6f87b1",
+      "title": "Why Low Stars Seem to Change Colour",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Stellar Scintillation",
+        "Stellar Scintillation vs Rendlesham Observations",
+        "Factors Intensifying Low Horizon Scintillation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_sirius_southern_ligh_59d067",
+      "title": "Was Halt's Brightest Light Really Sirius?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "cards_grid",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Sirius Star Observational Matches",
+        "Rendlesham Forest Southern Light Explanations",
+        "Halt Memorandum Observation Key Stages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+      "title": "Why Rendlesham Became Britain's Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Interpretations of the Halt Tape",
+        "Rendlesham Case Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_1983_press_sensation_2b9252",
+      "title": "How One Newspaper Made Rendlesham National News",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Media Evolution",
+        "Halt Memorandum vs. Press Framing",
+        "Factors Fueling Rendlesham Fame"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_memo_official_a_d14822",
+      "title": "What Halt's Memo Really Proved About Rendlesham",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Administrative Path",
+        "Halt Memorandum: Fact vs. Interpretation",
+        "Attributes of the Halt Memorandum"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_tape_immediacy_eb932e",
+      "title": "Why the Halt Tape Still Feels So Convincing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Patrol Investigation Steps",
+        "Interpretations of the Halt Tape",
+        "Audio Elements of the Rendlesham Recording"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_military_witness_cre_632864",
+      "title": "Did Military Witnesses Make Rendlesham More Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Military Reporting Chain",
+        "Military Training Perception Limits",
+        "Factors of Rendlesham Credibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_official_files_both_1a96a4",
+      "title": "Why Declassified Files Deepened the Rendlesham Debate",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mo D Rendlesham Forest Archive Contents",
+        "Interpretations of Rendlesham Records",
+        "Mo D Findings vs. Public Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_sky_crash_conspiracy_88cabf",
+      "title": "How Sky Crash Reframed Rendlesham as a Conspiracy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Narrative Construction of Sky Crash",
+        "Interpretations of Official Silence",
+        "Core Elements of Rendlesham Mystery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+      "title": "Why Edward Cabansag's Account Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cabansag's Rendlesham Forest Patrol Key Stages",
+        "Witness Testimony Variations in Rendlesham",
+        "Factors Influencing Rendlesham Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_beacon_ligh_087880",
+      "title": "Which Beacon Did Cabansag See Beyond the Woods?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cabansag's First Night Observation Key Stages",
+        "Orfordness Light house Evidence Analysis",
+        "Uncertainties in Cabansag's Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_duress_clai_8e783e",
+      "title": "Did Cabansag Sign His Statement Under Pressure?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Witness Documentation Process",
+        "Interpretations of Cabansag's Duress Claim",
+        "Evidence Required to Confirm Tampering"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_farmhouse_g_f27bf2",
+      "title": "Was Cabansag's Mysterious Glow Just a Farmhouse?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cabansag's Perception Shift Key Stages",
+        "Farmhouse Explanation Scope",
+        "Factors Influencing Night Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_halt_memo_c_5127f1",
+      "title": "Why Halt's Memo Sounds More Dramatic Than Cabansag",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "process_steps",
+        "masonry"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "other"
+      ],
+      "titles": [
+        "Rendlesham Forest Witness Discrepancies",
+        "Halt Memorandum Drafting Key Stages",
+        "Factors Shaping the Rendlesham Narrative"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_patrol_posi_171d6a",
+      "title": "How Close Was Cabansag to the Alleged Object?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cabansag's Rendlesham Forest Patrol Key Stages",
+        "Interpretations of Cabansag's Silence",
+        "Evidence Constraints of Cabansag's Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_statement_p_bd3cc6",
+      "title": "How Cabansag's Early Statement Reached the Public",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Document History",
+        "Interpretations of Cabansag's Statement",
+        "Rendlesham Forest Witness Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+      "title": "Why Charles Halt Became the Case's Central Witness",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lt Col Charles Halt's Documentation Time line",
+        "Interpretations of the Rendlesham Lights",
+        "Evidence from the Halt Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_actual_command_73fa2d",
+      "title": "Was Charles Halt Really the Base Commander?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "USAF Command Structure at RAF Bentwaters",
+        "Halt Authority vs. Official Limits",
+        "Halt's Investigation at Rendlesham Forest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_forest_search_d_cf8487",
+      "title": "Why Did Halt Enter Rendlesham Forest?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Halt's Rendlesham Forest Investigation Steps",
+        "Interpretations of Halt's Conduct",
+        "Rendlesham Forest Investigation Assets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_hearsay_da_f0220f",
+      "title": "Where Halt's Memo Gets the Story Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Chronology",
+        "Halt Memorandum Source Analysis",
+        "Limitations of the Halt Memorandum"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_what_it_pr_93b70a",
+      "title": "What Does Halt's Memo Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Halt Memorandum Reporting Key Stages",
+        "Report vs. Official Finding",
+        "Absent Elements in Halt Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_reporting_delay_e15e98",
+      "title": "Why Did Halt Wait Nearly Two Weeks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Reporting Time line",
+        "Interpretations of the Reporting Delay",
+        "Factors Influencing the Reporting Delay"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_tape_witness_re_c0ec07",
+      "title": "How Reliable Was Halt on the Tape?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Halt Tape Observation Workflow",
+        "Rendlesham Forest Light Interpretations",
+        "Halt Tape Evidence Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+      "title": "Can Several Ordinary Lights Explain the Whole Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Rendlesham Forest Evidence Interpretations",
+        "Factors Influencing Witness Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_early_vs_later_accou_a773b4",
+      "title": "How Did the Rendlesham Story Grow Over Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Narrative Evolution",
+        "Contemporary vs. Retrospective Records",
+        "Psychological Drivers of Memory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_fireball_first_alarm_bd69ca",
+      "title": "Did a Fireball Start the Rendlesham Search?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Initial Response Key Stages",
+        "Fireball Hypothesis Scope Analysis",
+        "Meteoroid Visual Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_halt_tape_flash_timi_c825ed",
+      "title": "Does the Halt Tape Keep Lighthouse Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Tape Recording Process",
+        "Rendlesham Forest Evidence Interpretations",
+        "Strongest Light house Correlation Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_lighthouse_forest_vi_43527f",
+      "title": "Could the Lighthouse Flash Through the Trees?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Light house Beam Visibility Mechanism",
+        "Rendlesham Forest Interpretations",
+        "Factors Influencing Forest Visibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_red_light_color_mism_8ea757",
+      "title": "Does the Red Light Defeat the Lighthouse Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Factors Reducing Night Color Reliability",
+        "Rendlesham Forest Light house Interpretations",
+        "Evidence for Light house Explanation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_sirius_southern_obje_f49264",
+      "title": "Was Rendlesham's Bright Southern Object Sirius?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Atmospheric Scintillation Optical Process",
+        "Sirius vs. Craft Interpretations",
+        "Sirius Hypothesis Evidence Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+      "title": "Which Rendlesham Details Appeared Only Later?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Early Records vs. Later Claims",
+        "Rendlesham Credibility Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_burroughs_cabansag_c_2da4c9",
+      "title": "Who Actually Confirmed Penniston's Landed Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Burroughs Patrol Key Stages in Rendlesham Forest",
+        "Corroboration Limits of Penniston's Claims",
+        "Specific Discrepancies in Rendlesham Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_five_statement_witne_bf4646",
+      "title": "Did Five Men Really See the Same Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Witness Roles",
+        "Search Party Observation Variance",
+        "Rendlesham Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_memo_merged_rep_987121",
+      "title": "Did the Official Memo Make the Object Clearer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest First Night Time line",
+        "Witness Accounts vs. Halt Summary",
+        "Security Police Witness Perspectives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_tape_contempora_77b8f6",
+      "title": "Which Halt Claims Were Recorded in Real Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Colonel Halt's Field Investigation Key Stages",
+        "Halt Tape vs. Later Claims",
+        "Evidence Categories in Rendlesham Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_penniston_missing_ea_67e755",
+      "title": "Can Major UFO Details Be Remembered Years Later?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Jim Penniston's Narrative Evolution",
+        "Evidence Weighting in Rendlesham",
+        "Penniston's Omitted Extraordinary Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_statement_release_de_b79077",
+      "title": "What Changed Before the First Statements Became Public?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Documentation Time line",
+        "Interpretations of Witness Omissions",
+        "Rendlesham Forest Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+      "title": "How Expectation May Have Shaped the Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Escalation",
+        "Rendlesham Forest Visual Explanations",
+        "Factors Influencing Night Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_autokinesis_light_mo_2781b7",
+      "title": "Can Your Eyes Make a Light Wander?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Autokinesis Perception",
+        "Autokinesis vs. Rendlesham Evidence",
+        "FAA Pilot Countermeasures for Autokinesis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_crash_expectation_se_fe9628",
+      "title": "Did a Crash Alert Shape What They Saw?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Patrol Key Stages",
+        "Perceptual Set Factors at Rendlesham",
+        "Evidence of Initial Crash Narrative"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_halt_lighthouse_timi_a79918",
+      "title": "Did the Lighthouse Match Halt's Flashing Light?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Flashing Light Interpretations",
+        "Orfordness Light house Timing Data",
+        "Halt Tape Observation Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_night_distance_error_d54893",
+      "title": "Why Did the Lights Seem So Close?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Distance Perception Errors",
+        "Daylight vs. Darkness Depth Cues",
+        "Factors Influencing Brightness Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_separate_lights_one_6a06a7",
+      "title": "How Did Separate Lights Become One UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Time line",
+        "Rendlesham Forest Perceptual Explanations",
+        "Factors Influencing Rendlesham Forest Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_trees_apparent_motio_5b8d08",
+      "title": "Could the Forest Make a Fixed Light Move?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Perception of Moving Lights in Rendlesham Forest",
+        "Mechanisms Explaining the Rendlesham Forest Light",
+        "Factors Strengthening the Moving Light Illusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+      "title": "Did a Fireball Trigger the Rendlesham Search?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest First Night Key Stages",
+        "Fireball Theory vs. Crash Evidence",
+        "Fireball Perceptual Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_0250_fireball_first_00c7e8",
+      "title": "Did the 02:50 Fireball Trigger Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Initial Alarm Time line",
+        "Meteor Fireball Evidence Analysis",
+        "Meteor Fireball Physical Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_brief_flash_long_sea_131467",
+      "title": "How One Brief Flash Became a Nightlong Search",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Fireball Key Stages",
+        "Rendlesham Forest Interpretation Models",
+        "Alternative Explanations for Forest Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_meteor_false_proximi_20a73d",
+      "title": "Why Meteors Can Seem to Land Nearby",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fireball Perception Key Stages at Rendlesham Forest",
+        "Nighttime Visual Cues vs Daylight Cues",
+        "Factors Creating False Proximity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_missing_wreckage_fir_57b21d",
+      "title": "What the Missing Crash Site Really Tells US",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Initial Response Key Stages",
+        "Rendlesham Forest Evidence Comparison",
+        "Missing Indicators of Aircraft Crash"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d",
+      "title": "Why One Wrong Date Changed the Fireball Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Key Stages Correction",
+        "Rendlesham Forest Date Discrepancies",
+        "Evidence Converging on 26 December"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_tree_line_descent_il_40629e",
+      "title": "How the Forest Made the Fireball Look Local",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Perception of the Rendlesham Fireball",
+        "Rendlesham Forest Incident Interpretations",
+        "Factors Influencing Visual Distortion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+      "title": "What Happened During the First Forest Search?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest First Night Key Stages",
+        "Rendlesham Forest Interpretations",
+        "Witness Accounts at RAF Woodbridge"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_burroughs_cabansag_a_ed22c5",
+      "title": "Why Did Burroughs and Cabansag See It Differently?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Burroughs's Forest Search Key Stages",
+        "Burroughs vs. Cabansag Interpretations",
+        "Factors Shaping Rendlesham Forest Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_east_gate_aircraft_a_a2bccf",
+      "title": "Why Did the East Gate Team Enter the Forest?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAF Woodbridge East Gate Response",
+        "Initial Operational Assumptions vs Reality",
+        "Rendlesham Forest Search Team Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_night_distance_illus_eb6dae",
+      "title": "Could a Distant Light Seem Close in the Forest?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Search Progression",
+        "Rendlesham Forest Visual Misperceptions",
+        "Factors Inhibiting Night Distance Estimation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_orfordness_lighthous_207c2d",
+      "title": "Was the Orfordness Lighthouse the Light They Chased?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Evidence for Orfordness Light house Theory",
+        "Rendlesham Forest Interpretations",
+        "Investigation of the First Night"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_penniston_first_stat_5b9231",
+      "title": "What Did Penniston Actually Report That Night?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Penniston's Rendlesham Testimony",
+        "Rendlesham Forest Credibility Perspectives",
+        "Omissions in Penniston's Original Statement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_suffolk_police_searc_b6bc66",
+      "title": "What Did Suffolk Police Find at Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Police Log Key Stages",
+        "Rendlesham Forest Visual Explanations",
+        "Suffolk Constabulary Search Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+      "title": "How the Forest Could Make Lights Seem to Move",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Witness Movement and Visual Transition",
+        "Optical Illusion Mechanisms in Rendlesham",
+        "Factors Affecting Nocturnal Depth Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_autokinetic_light_dr_98202a",
+      "title": "Why a Fixed Light Can Drift in Darkness",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of the Autokinetic Effect",
+        "Rendlesham Forest Observation Analysis",
+        "Conditions Favoring Autokinesis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_forest_coast_route_l_85f8e2",
+      "title": "How the Light Changed on the Walk to the Coast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Investigation Route",
+        "Interpretations of the Rendlesham Light",
+        "Perceptual Factors in Rendlesham Forest"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_halt_tape_range_esti_d3ff87",
+      "title": "Why the Halt Tape's Distance Estimates Kept Changing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Distance Estimates",
+        "Measurable vs. Inferred Data",
+        "Factors Affecting Night Ranging"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_hidden_horizon_uneve_7ee536",
+      "title": "When Uneven Ground Made the Horizon Disappear",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of Distant Lights",
+        "Rendlesham Forest Altitude Interpretations",
+        "Factors Affecting Nighttime Visibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_parallax_stationary_9057b2",
+      "title": "Could Walking Make a Stationary Light Move?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Motion Parallax Perception",
+        "Rendlesham Forest Light Interpretations",
+        "Parallax Compatible Rendlesham Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_tree_gaps_apparent_b_870106",
+      "title": "Did Tree Gaps Make the Light Seem to Blink?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Mechanics of the Rendlesham Forest Plant ation",
+        "Interpretations of the Halt Tape Observations",
+        "Evidence of Plant ation Induced Visual Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+      "title": "Were the Forest Depressions Really Landing Marks?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Ground Mark Interpretations",
+        "Missing Forensic Evidence at Rendlesham",
+        "Evolution of the Landing Site Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_halt_memo_ground_mar_79e4f8",
+      "title": "What Did Halt Actually Record About the Marks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Investigation Time line",
+        "Halt Memorandum vs. Later Narratives",
+        "Missing Forensic Data in Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_landing_site_narrati_3ed3a6",
+      "title": "How Three Small Marks Became a Landing Site",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "hex_cluster"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of the Rendlesham Forest Marks",
+        "Interpretations of Forest Depressions",
+        "Components of the Rendlesham Legend"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_missing_landing_trac_0bf631",
+      "title": "What Evidence Should a Real Landing Leave Behind?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Expected Mechanical Ground Contact Signs",
+        "Rendlesham Forest Landing Interpretations",
+        "Missing Forensic Evidence at Rendlesham"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_rabbit_scrape_explan_4894de",
+      "title": "Were the Landing Marks Just Rabbit Scrapes?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Ground Mark Interpretations",
+        "Characteristics of Rabbit Scrapes",
+        "Expert Analysis of Rendlesham Traces"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_suffolk_police_marks_84e994",
+      "title": "Why Police Saw No Convincing Landing Site",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Police Inspection Time line",
+        "Interpretations of Rendlesham Forest Marks",
+        "Absent Evidence at the Clearing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_triangle_landing_pat_39af86",
+      "title": "Did Three Marks Really Map a Landing Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Ground Mark Interpretations",
+        "Halt Memorandum Physical Measurements",
+        "Forensic Requirements for Landing Proof"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+      "title": "What the Halt Memorandum Actually Says",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Halt Memorandum Interpretations",
+        "Halt Memorandum Content Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_archive_pr_74fecb",
+      "title": "What Archiving the Halt Memo Really Proves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Halt Memorandum Administrative Path",
+        "Archival Fact vs. Observation Truth",
+        "Reported Elements in Halt Memorandum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_reporting_e2eb0b",
+      "title": "Why Halt's Report Went to the Ministry of Defence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Reporting Chain",
+        "Interpretation of the Halt Memorandum",
+        "Jurisdictional Factors of Rendlesham Forest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_mod_no_defence_signi_42b0c0",
+      "title": "Why the Ministry Closed the Rendlesham File",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Halt Memorandum Administrative Path",
+        "Mo D Interpretation vs Public Expectation",
+        "Mo D Air Defence Screening Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_official_stationery_ad1b62",
+      "title": "Why Official Paper Made the Story More Convincing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Halt Memorandum Administrative Path",
+        "Layers of Interpretation: The Halt Memorandum",
+        "Components of the Halt Memorandum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00",
+      "title": "Did Radar Confirm Anything Over Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mo D Radar Investigation Key Stages",
+        "Radar Evidence vs. Witness Accounts",
+        "Limitations of the Radar Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+      "title": "Did 'Unexplained' Mean Unknown Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Memorandum Workflow",
+        "Interpretations of Unexplained Lights",
+        "Factors Limiting Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+      "title": "Inside Charles Halt's Recorded Night in the Forest",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Halt Tape Investigation Key Stages",
+        "Rendlesham Forest Interpretations",
+        "Halt Tape Evidence Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_halt_tape_gaps_1a3374",
+      "title": "What the Halt Tape Leaves Out",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Tape Evidence Limits",
+        "Data Gaps in the Halt Recording",
+        "Halt Tape Recording Methodology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_landing_site_radiati_5b4e66",
+      "title": "Did the Ground Marks Show Unusual Radiation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Halt's 1980 Field Inspection Key Stages",
+        "Contrasting Evidence Records at Rendlesham",
+        "Factors Limiting Scientific Interpretation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757",
+      "title": "Was Halt's Radiation Meter Fit for the Job?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "AN/PDR 27 Military Radiac Capabilities",
+        "Rendlesham Forest Evidence Limits",
+        "AN/PDR 27 Sensitivity Ranges"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_reported_beam_retell_e4d3de",
+      "title": "Did a Light Beam Down at Woodbridge?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Rendlesham Beam Narrative",
+        "Interpretations of the Southern Light Beam",
+        "Evidence Layers of the Rendlesham Incident"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_sirius_star_objects_31b1e9",
+      "title": "Were Halt's Sky Objects Bright Stars?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Halt Tape Investigation Progression",
+        "Southern Object Interpretations",
+        "Atmospheric Optical Effects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_tree_damage_claims_3c6fb8",
+      "title": "What Really Caused the Damaged Trees?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Halt Tape Investigation Key Stages",
+        "Interpretations of Tree Damage",
+        "Missing Forensic Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+      "title": "What Can the Halt Tape Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Investigation Phases",
+        "Interpretations of the Halt Tape",
+        "Evidence Limitations of the Halt Tape"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033",
+      "title": "Did the Red Light Move or Only Seem To?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Limitations of the Halt Tape",
+        "Mechanisms of Apparent Motion",
+        "Halt Tape Evidence vs. Physical Proof"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424",
+      "title": "Was the Halt Tape Altered or Merely Copied?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Tape Reproduction Path",
+        "Interpretations of Audio Artifacts",
+        "Authentic Elements of the Halt Tape"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9",
+      "title": "What Would Have Turned the Tape Into Proof?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Missing Evidence from Rendlesham Forest",
+        "Testing Claims via Synchronized Observations",
+        "Requirements for Conclusive UFO Proof"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_multiple_v_b51095",
+      "title": "Do the Other Voices Corroborate Halt's Account?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Field Investigation Steps",
+        "Interpretations of the Halt Tape Evidence",
+        "Operational Roles in the Halt Recording"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_realtime_r_1a435d",
+      "title": "Sincere Reactions Are Not the Same as Proof",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evidence from the Halt Tape",
+        "Rendlesham Forest Interpretations",
+        "Witness Sincerity vs. Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_vs_later_a_3657f7",
+      "title": "Which Account Came First: Tape, Memo or Memory?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Investigation Key Stages",
+        "Halt Tape vs. Official Memorandum",
+        "Core Elements of the Rendlesham Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+      "title": "Was Rendlesham Forest Simply a Hoax?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Documentation Time line",
+        "Rendlesham Forest Interpretations",
+        "Rendlesham Forest Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894",
+      "title": "Why Rendlesham Was Not Invented Years Later",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Documentary Time line",
+        "Rendlesham Evidence vs. Later Claims",
+        "Components of the Rendlesham Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_kevin_conde_prank_cl_5a4c16",
+      "title": "Did Kevin Conde's Prank Explain Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Conde's Patrol Car Prank Mechanics",
+        "Rendlesham Forest Prank Analysis",
+        "Conde's Testimony Conclusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d",
+      "title": "Why Larry Warren's Rendlesham Account Remains Disputed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Larry Warren's Narrative Evolution",
+        "Rendlesham Evidence Quality Comparison",
+        "Contested Claims in Warren's Account"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_penniston_changing_a_afe207",
+      "title": "How Penniston's Story Changed After Rendlesham",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Jim Penniston's Narrative Evolution",
+        "Early Records vs. Later Claims",
+        "Factors Influencing Memory Expansion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_rendlesham_merged_ni_7423ca",
+      "title": "How Several Rendlesham Episodes Became One Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Key Stages 1980",
+        "Blended vs. Original Narratives",
+        "Rendlesham Forest Evidence Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_sas_hoax_story_scrut_98d0ea",
+      "title": "Why the SAS Hoax Story Falls Short",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alleged SAS Revenge Prank Time line",
+        "Rendlesham Forest Evidence Comparison",
+        "Alleged Hoax Equipment List"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+      "title": "What John Burroughs Reported in Rendlesham Forest",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Burroughs Patrol Key Stages at RAF Woodbridge",
+        "Interpretations of the Rendlesham Lights",
+        "Evidence from Burroughs's Written Statement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_memory_cha_6d1e14",
+      "title": "How Burroughs's Story Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Burroughs's Early vs. Late Testimony",
+        "Theories on Testimony Evolution",
+        "Burroughs's Early Observation Log"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_penniston_68e601",
+      "title": "Why Burroughs Did Not Confirm Penniston's Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Burroughs vs. Penniston Witness Accounts",
+        "Theories on Memory Divergence",
+        "Penniston's Narrative Development"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_first_night_patrol_r_3b6402",
+      "title": "Who Actually Led the Rendlesham Patrol?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Patrol Key Stages",
+        "Witness Account Discrepancies",
+        "RAF Woodbridge Security Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_rendlesham_forest_sc_493102",
+      "title": "Was the Rendlesham Scream Just a Deer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Burroughs Patrol Sensory Experience",
+        "Muntjac Deer Scream Explanations",
+        "Environmental Factors in Rendlesham Forest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_unarmed_rendlesham_p_749163",
+      "title": "Why Did the Rendlesham Patrol Go Unarmed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAF Woodbridge Patrol Response Key Stages",
+        "Interpretations of Unarmed Patrol Status",
+        "Operational Context of Rendlesham Forest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+      "title": "What Evidence Would Confirm a Real Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Documentation Time line",
+        "Documented vs. Missing Evidence",
+        "Requirements for Craft Confirmation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_confiscated_photo_cl_234679",
+      "title": "Can the Confiscated Photo Story Be Verified?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Missing Photographic Chain of Custody",
+        "Rendlesham Evidence: Records vs. Recollections",
+        "Required Proof for Photographic Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_credible_rendlesham_fda460",
+      "title": "What Would Prove a Rendlesham Photo Is Genuine?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Authentication of Rendlesham Photos",
+        "Verified Image vs. Undocumented Prints",
+        "Rendlesham Forest Scale & Location Tests"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_halt_tape_limits_a00c81",
+      "title": "What the Halt Tape Cannot Prove",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "tree_map",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Halt Tape vs. Technical Sensors",
+        "Missing Technical Data Points",
+        "Strengths of the Halt Tape"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_later_forest_samples_6f8951",
+      "title": "Can Modern Samples Recover the Lost Rendlesham Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Degradation of Rendlesham Forest Evidence",
+        "Modern Sampling vs. Forensic Standards",
+        "Limitations of Post Incident Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_missing_rendlesham_d_664dec",
+      "title": "Where Is the Physical Debris From Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Scientific Provenance Requirements for Rendlesham",
+        "Rendlesham Forest Evidence Limitations",
+        "Risks to Retrospective Evidence Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_usaf_rendlesham_phot_a81c25",
+      "title": "Were Official Rendlesham Photographs Ever Taken?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mo D Verification of USAF Records",
+        "Rendlesham Forest Photographic Claims",
+        "Missing Evidence Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30",
+      "title": "Why the MOD Found No Defence Significance",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MOD Rendlesham Forest Assessment Flow",
+        "Rendlesham Defence Significance Criteria",
+        "MOD Evidence Evaluation Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_bright_lights_spy_th_e7601e",
+      "title": "Would a Spy Craft Advertise Itself With Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Spy Theory Analysis",
+        "MOD Defence Significance Criteria",
+        "MOD Evaluation of Rendlesham Forest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_hill_norton_challeng_8eeea7",
+      "title": "The Two Way Challenge the MOD Never Resolved",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "fact_box_sidebar",
+        "process_pipeline"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Hill Norton's Two Part Dilemma",
+        "Competing Definitions of Defence Significance",
+        "MOD Investigation Logic for Rendlesham"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_desk_review_4a61f5",
+      "title": "Did the MOD Ever Truly Investigate Rendlesham?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Administrative Time line",
+        "Investigation Scope Comparison",
+        "MOD Cold War UFO Screening Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_threat_test_b6ff8a",
+      "title": "Why Unexplained Did Not Mean Defence Threat",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "MOD Air Defence Screening Process",
+        "Public Expectation vs MOD Policy",
+        "Defence Significance Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_quiet_response_signa_b3428f",
+      "title": "What the Quiet Response Told the MOD",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Reporting Time line",
+        "Ministry of Defence Analytical Logic",
+        "Factors Complicating the Ministry Assessment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_rendlesham_radar_gap_962b04",
+      "title": "Why No Radar Track Mattered So Much",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MOD Evaluation of Rendlesham Forest",
+        "Radar Data vs Visual Testimony",
+        "Radar Detection Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+      "title": "Where the Original Rendlesham Records Come From",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Disclosure Time line",
+        "Archival Evidence vs. Public Narrative",
+        "Rendlesham Forest Archive Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_memo_official_l_6a61e1",
+      "title": "What Does Halt's Official Memorandum Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Halt Memorandum Archival Chain",
+        "Document Provenance vs. Content",
+        "Halt Memorandum Observation Sources"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_tape_evidence_l_234070",
+      "title": "How Much Can the Halt Tape Really Establish?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Real Time Evidence from the Halt Tape",
+        "Halt Tape vs. Scientific Log Standards",
+        "Unresolved Uncertainties in the Halt Tape"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927",
+      "title": "Did 'No Defence Significance' Mean the Case Was Solved?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_vertical",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Interpretation Models",
+        "Mo D National Security Assessment Flow",
+        "Rendlesham Archive Documentation Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_declassif_f110aa",
+      "title": "Were the Rendlesham Files Ever Really Declassified?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Record Lifecycle",
+        "Archive Transfer vs Declassification",
+        "Barriers to Public Access"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_missing_i_c72a28",
+      "title": "Was There Ever a Full Government Investigation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mo D Rendlesham Forest Review Process",
+        "Rendlesham Archive Interpretations",
+        "Absent Technical Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_public_re_fa3320",
+      "title": "How Did the Rendlesham Files Become Public?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Archive Expansion Time line",
+        "Pre FOI vs. Post FOI Access Methods",
+        "Specific Rendlesham Archive File Contents"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+      "title": "Why the Official Rendlesham Dates Were Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Halt Memorandum Date Discrepancies",
+        "Rendlesham Forest Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_fireball_corrected_d_8a8caa",
+      "title": "Did the Wrong Date Hide a Fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Key Stages Correction",
+        "Meteor Correlation Evidence Limits",
+        "Rendlesham Forest Evidence Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_halt_tape_correct_da_aa412c",
+      "title": "What Night Was the Halt Tape Recorded?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Halt Memorandum vs. Audio Evidence",
+        "Halt Tape Observation Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_overnight_shift_date_7fa34a",
+      "title": "How Midnight Shifted Both Official Dates",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Key Stages Corrections",
+        "Analyzing Halt's Date Discrepancies",
+        "Factors Influencing Date Errors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_police_records_first_9ac4cb",
+      "title": "Why Police Records Point to Boxing Day",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Police Attendance Time line",
+        "Date Discrepancy in Rendlesham Records",
+        "Factors Impacted by Date Correction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_raf_watton_call_date_3d8901",
+      "title": "Did a Radar Call Fix Halt's Date?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Chronological Anchors",
+        "Dating Discrepancies in Halt's Memorandum",
+        "RAF Watton Radar Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_witness_statements_f_c22127",
+      "title": "Which Date Did the First Witnesses Give?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Key Stages",
+        "Halt Memorandum vs. Witness Records",
+        "Rendlesham Forest Witness Profiles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+      "title": "Was the Mysterious Flash the Orfordness Lighthouse?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Orfordness Light house Technical Specifications",
+        "Rendlesham Forest Light Interpretations",
+        "Evidence Matching Orfordness Light house"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_five_secon_3c71ca",
+      "title": "Why the Five Second Rhythm Matters Most",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Halt Tape Recording Process",
+        "Orfordness Light house Evidence Analysis",
+        "Rendlesham Forest Evidence Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_two_lights_disp_35f06c",
+      "title": "Did Halt See Two Different Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Patrol Recording Key Stages",
+        "Orfordness Light house Debate Perspectives",
+        "Evidence Types in Rendlesham Forest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_local_witness_lighth_05c5a2",
+      "title": "Why Locals Recognised the Light Differently",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Suffolk Constabulary Investigation Time line",
+        "Observer Perspective Comparison",
+        "Local Knowledge Advantages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_beam_scre_3f1cae",
+      "title": "Was the Lighthouse Beam Really Blocked?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Orfordness Light house Visibility Verification",
+        "Screening Obstruction Interpretations",
+        "Orfordness Light house Technical Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_visibilit_1c7927",
+      "title": "Could Rendlesham Witnesses Actually See Orfordness?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Orfordness Light house Visibility Key Stages",
+        "Rendlesham Forest Sightline Evidence",
+        "Factors Altering Modern Sightlines"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_trees_apparent_light_f4ce56",
+      "title": "How a Fixed Light Seemed to Move",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Optical Path of the Orfordness Light house",
+        "Rendlesham Forest Light Interpretations",
+        "Visual Anomalies in Rendlesham Forest"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+      "title": "How Jim Penniston's Story Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Penniston's Rendlesham Account",
+        "Contrasting Rendlesham Forest Evidence",
+        "Factors Influencing Memory Evolution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_binary_notebook_auth_2db8ed",
+      "title": "Can the Binary Notebook Be Trusted as Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Notebook Key Stages",
+        "Notebook Authenticity Criteria",
+        "Rendlesham Binary Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_ascii_deco_3ccc0c",
+      "title": "Does Penniston's Binary Code Really Say Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Decoding Penniston's Binary Notebooks",
+        "Interpretations of the Rendlesham Code",
+        "Technical Limitations of ASCII Decoding"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_story_grow_cb2f70",
+      "title": "How Penniston's Craft Story Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Rendlesham Forest Narrative",
+        "Credibility Perspectives on Penniston's Testimony",
+        "Key Physical Details of the Rendlesham Craft"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_symbols_cl_5d30e0",
+      "title": "When Did Penniston First Mention the Symbols?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Rendlesham Forest Symbols",
+        "Interpretations of the Missing Records",
+        "Evidence Gaps in the Rendlesham Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_touch_clai_e958d1",
+      "title": "Did Penniston Really Touch the Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Penniston's Rendlesham Narrative",
+        "Original vs. Expanded Rendlesham Accounts",
+        "Rendlesham Forest Evidence Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_ted_conrad_recollect_ea7b9f",
+      "title": "Why Ted Conrad Rejected the Close Encounter Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Rendlesham Forest Initial Encounter Key Stages",
+        "Penniston Testimony Evolution Comparison",
+        "Evidence Supporting Conrad's Recollection"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+      "title": "What Did Police Find at Rendlesham Forest?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Suffolk Constabulary Response Time line",
+        "Rendlesham Forest Landing Evidence Analysis",
+        "Criteria for Valid Landing Traces"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa_animal_tracks_ground_f1aeeb",
+      "title": "Could an Animal Have Made the Landing Marks?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Ground Impression Analysis",
+        "Police Evidence Assessment Criteria",
+        "Distinguishing Mechanical vs Natural Marks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa_delayed_arrival_sear_28c418",
+      "title": "How Much Could the Police Search Really Disprove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Suffolk Constabulary Search Key Stages",
+        "Interpretations of Police Findings",
+        "Police Search Scope and Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa_police_photo_site_co_073dd7",
+      "title": "What Does the Police Site Photograph Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Incident Time line",
+        "Interpretations of the Police Photograph",
+        "Evidence from the Rendlesham Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa_suffolk_police_recor_316017",
+      "title": "What Do the Suffolk Police Records Actually Establish?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Suffolk Constabulary Response Time line",
+        "Police Records vs. Military Claims",
+        "Evidential Value of Police Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa_three_marks_landing_54aec9",
+      "title": "Did the Three Marks Really Form a Landing Site?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Ground Mark Interpretations",
+        "Missing Forensic Evidence for Landing",
+        "Rendlesham Forest Inspection Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa_west_drayton_aircraf_ff4e78",
+      "title": "Did Air Traffic Control Rule Out a Crash?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Investigation Key Stages",
+        "West Drayton ATC Evidence Scope",
+        "Rendlesham Forest Investigation Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+      "title": "Was Anything Unusual Detected on Radar?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Radar Log Key Stages",
+        "Radar Return vs. Confirmed Track",
+        "Factors Limiting Radar Detection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_brief_radar_return_c_9d158f",
+      "title": "Can Three Radar Sweeps Prove a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Radar Operator Evaluation Workflow",
+        "Nigel Kerr Recollection vs. Official Records",
+        "Common Causes of Fleeting Radar Marks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_neatishead_no_unusua_90973f",
+      "title": "Why Did Neatishead Report Nothing Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "RAF Neatishead Air Defence Review",
+        "Visual vs. Radar Evidence Analysis",
+        "Expected Air Defence Indicators"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_proof_for_intr_eb0b76",
+      "title": "What Radar Proof Would a Real Intrusion Leave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Standard Radar Track Verification",
+        "Rendlesham Forest Evidence Analysis",
+        "Defense Significant Incursion Indicators"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_return_vs_trac_e32354",
+      "title": "Radar Return or Confirmed Track: What Is the Difference?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Radar Track Validation Process",
+        "Radar Return vs. Confirmed Track",
+        "Common Radar Interference Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_watton_log_record_a97879",
+      "title": "What Did the Watton Radar Log Actually Show?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RAF Watton Log Key Stages 28 December 1980",
+        "UA 37 vs. Visual Sightings Comparison",
+        "Absence of Evidence in Watton Logs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.091,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_wrong_dates_radar_ch_a8de07",
+      "title": "Did the Wrong Dates Ruin the Radar Check?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Radar Inquiry Time line",
+        "Impact of Halt's Dating Errors",
+        "Radar Inquiry Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+      "title": "Did the Radiation Readings Show Anything Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Radiation Survey Steps",
+        "Radiation Data Interpretation Models",
+        "Missing Scientific Survey Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_halt_tape_memo_radia_13e00c",
+      "title": "Why Do the Tape and Memo Disagree?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "structure_taxonomy",
+        "earth_core"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Halt Tape vs. Official Memorandum",
+        "Rendlesham Forest Radiation Data",
+        "Factors Influencing Account Divergence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_backgroun_169fb0",
+      "title": "Were the Rendlesham Readings Actually Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rendlesham Forest Radiation Measurements",
+        "Evidence for Radioactive Contamination",
+        "Factors Influencing Low Level Readings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_controlle_2e252b",
+      "title": "What Would a Proper Radiation Survey Have Done?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Scientific Radiological Investigation Workflow",
+        "Rendlesham Field Check vs. Defensible Survey",
+        "Required Documentation for Radiological Surveys"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_lab_testi_dc40a6",
+      "title": "Could Lab Tests Have Settled the Radiation Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Standard Radionuclide Testing Workflow",
+        "Field Survey vs Laboratory Analysis",
+        "Missing Evidence in Rendlesham Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_meter_rel_dcee26",
+      "title": "Could the Meter Reliably Measure Such Tiny Changes?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AN/PDR 27 Instrument Limitations",
+        "Rendlesham Radiation Data Interpretations",
+        "Variables Affecting Rendlesham Measurements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_probe_pos_ac4163",
+      "title": "Could Probe Placement Explain the Radiation Peaks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "AN/PDR 27 Survey Measurement Variables",
+        "Soil vs Tree Measurement Geometry",
+        "Beta Particle Detection Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+      "title": "Why Stars Can Look Like Moving UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Atmospheric Scintillation Light Path",
+        "Rendlesham Southern Light Interpretations",
+        "Factors Intensifying Scintillation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_apparent_downward_be_7af092",
+      "title": "Did Halt Really See a Beam From the Sky?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Optical Distortion of Point Lights",
+        "Rendlesham Forest Beam Interpretations",
+        "Factors Influencing Visual Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_fixation_expectation_1bc13b",
+      "title": "When Watching Longer Makes a Light Seem Stranger",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Autokinesis Perception",
+        "Rendlesham Forest Interpretations",
+        "Factors Influencing Ambiguous Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_forest_parallax_ligh_47d4a2",
+      "title": "Why a Star Can Look Trapped Among Trees",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanics of Forest Parallax Illusion",
+        "Rendlesham Forest Visual Explanations",
+        "Woodland Parallax Perceptual Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_limits_of_star_expla_7e04a3",
+      "title": "Where the Star Theory Stops at Rendlesham",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Optical Mechanics",
+        "Rendlesham Forest Evidence Analysis",
+        "Multiple Source Interpretations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_night_optics_star_di_f02788",
+      "title": "Can Night Vision Make a Star Look Mechanical?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Optical Distortion in Night Vision",
+        "Rendlesham Forest Optical Interpretations",
+        "Factors Inhibiting Precise Night Focus"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_testing_star_identif_27c323",
+      "title": "Was It a Star? Five Clues to Check",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying Stars in Rendlesham Forest",
+        "Stellar vs. Anomalous Behaviors",
+        "Rendlesham Forest Evidence Markers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+      "title": "Did the Trees Show Signs of a Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Rendlesham Forest Field Observation Key Stages",
+        "Interpretations of Rendlesham Tree Marks",
+        "Required Evidence for Impact Proof"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_canopy_descent_path_b9e699",
+      "title": "Did the Tree Gap Trace a Real Descent?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Reconstructing a Pine Tree Descent Path",
+        "Rendlesham Forest Canopy Gap Explanations",
+        "Missing Data in Rendlesham Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_forestry_axe_blazes_b9a552",
+      "title": "Were the 'Burn Marks' Just Forestry Cuts?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Rendlesham Forest Tree Damage Interpretations",
+        "Characteristics of Pine Axe Blazes",
+        "Gaps in the Rendlesham Physical Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_halt_tape_broken_bra_00a37d",
+      "title": "What Did Halt Actually Record About the Branches?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Halt Tape Canopy Observations",
+        "Halt Tape Evidence Limitations",
+        "Rendlesham Forest Evidence Comparison"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_missing_tree_evidenc_47da9d",
+      "title": "Why Did the Tree Evidence Stop Short?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Tree Sampling Chain",
+        "Field Observations vs Forensic Requirements",
+        "Missing Forensic Documentation Package"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_natural_branch_break_e398cf",
+      "title": "Could Ordinary Forest Damage Explain the Branches?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Natural Causes of Pine Branch Failure",
+        "Rendlesham Forest Branch Interpretations",
+        "Evidence Needed for Definitive Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_tree_marks_age_756112",
+      "title": "Were the Rendlesham Tree Marks Even Fresh?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "tree_map",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Rendlesham Forest Bark Damage Interpretations",
+        "Forensic Indicators for Bark Age",
+        "Missing Evidence in Rendlesham Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+      "title": "Why RAF Woodbridge Took the Lights Seriously",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAF Woodbridge Security Response Key Stages",
+        "Interpretations of the Rendlesham Lights",
+        "Operational Context of RAF Woodbridge"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_civilian_land_jurisd_8eef6e",
+      "title": "Where Base Authority Ended in Rendlesham Forest",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Jurisdictional Shift at RAF Woodbridge",
+        "Military vs Civilian Jurisdiction",
+        "Search Constraints in Rendlesham Forest"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_east_gate_runway_for_56f657",
+      "title": "What Guards Could Actually See From East Gate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Patrol Movement from East Gate",
+        "Rendlesham Forest Interpretations",
+        "Visual Obstructions at East Gate"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_gate_exit_command_pe_8c41c4",
+      "title": "Why the Patrol Could Not Simply Leave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "RAF Woodbridge Security Response Key Stages",
+        "Operational Contexts at RAF Woodbridge",
+        "Factors Defining the Halt Memorandum Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_security_police_duti_ca5935",
+      "title": "Why Security Police Had to Check the Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "USAF Security Police Response Protocol",
+        "Interpretations of the Rendlesham Lights",
+        "Woodbridge Airfield Security Duties"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_woodbridge_emergency_4874a1",
+      "title": "Why Woodbridge Made a Crash Seem Plausible",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "structure_taxonomy",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "RAF Woodbridge Emergency Landing History",
+        "RAF Woodbridge Runway Specifications",
+        "Initial Response Interpretations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_woodbridge_rescue_mi_161ae6",
+      "title": "Why Rescue Crews Made the Alarm More Urgent",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "RAF Woodbridge Emergency Response Key Stages",
+        "Woodbridge Operational Interpretations of Lights",
+        "67 th ARRS Aircraft Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

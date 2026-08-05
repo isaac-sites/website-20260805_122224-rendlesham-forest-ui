@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-05T11:10:26.848630Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1441,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 6.83,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Rendlesham_Forest_UF_395b35",
+        "title": "Rendlesham Forest",
+        "permalink": "/rendlesham-forest/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "title": "Alien Claim",
+        "permalink": "/alien-claim/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_halt_later_claims_vs_53784e",
+        "title": "Halt s Claims",
+        "permalink": "/halt-s-claims/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_official_file_not_ve_487819",
+        "title": "Official File",
+        "permalink": "/official-file/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_orford_ness_lighthou_113010",
+        "title": "Lighthouse Theory",
+        "permalink": "/lighthouse-theory-615fbc/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_binary_not_ec1e41",
+        "title": "Binary Notebook",
+        "permalink": "/binary-notebook/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_expanding_e16bf7",
+        "title": "Penniston s Account",
+        "permalink": "/penniston-s-account/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_suffolk_police_findi_ce6208",
+        "title": "Police Findings",
+        "permalink": "/police-findings/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "title": "Bentwaters",
+        "permalink": "/bentwaters/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_british_authority_tw_3f831c",
+        "title": "British Authority",
+        "permalink": "/british-authority/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_east_gate_geography_8e7323",
+        "title": "East Gate Map",
+        "permalink": "/east-gate-map/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_security_command_cha_862404",
+        "title": "Command Chain",
+        "permalink": "/command-chain/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_twin_bases_structure_b70d65",
+        "title": "Twin Bases",
+        "permalink": "/twin-bases/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_visual_radar_divide_0ccf8e",
+        "title": "Radar Gap",
+        "permalink": "/radar-gap/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_woodbridge_operation_08085c",
+        "title": "Woodbridge Role",
+        "permalink": "/woodbridge-role/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "title": "Bright Stars",
+        "permalink": "/bright-stars/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_autokinesis_star_mot_1a4c52",
+        "title": "Apparent Motion",
+        "permalink": "/apparent-motion-1d0848/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_memorandum_evid_07411f",
+        "title": "Memo Limits",
+        "permalink": "/memo-limits/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_northern_lights_05e99e",
+        "title": "Northern Lights",
+        "permalink": "/northern-lights/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_hours_long_light_dur_a23214",
+        "title": "Long Duration",
+        "permalink": "/long-duration/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_low_star_colour_flas_6f87b1",
+        "title": "Colour Flashing",
+        "permalink": "/colour-flashing/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_sirius_southern_ligh_59d067",
+        "title": "Sirius Match",
+        "permalink": "/sirius-match/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "title": "Case Legacy",
+        "permalink": "/case-legacy/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_1983_press_sensation_2b9252",
+        "title": "1983 Press",
+        "permalink": "/1983-press/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_memo_official_a_d14822",
+        "title": "Halt Memo",
+        "permalink": "/halt-memo-3c6043/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_tape_immediacy_eb932e",
+        "title": "Halt Tape",
+        "permalink": "/halt-tape-e800d2/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_military_witness_cre_632864",
+        "title": "Military Witnesses",
+        "permalink": "/military-witnesses/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_official_files_both_1a96a4",
+        "title": "File Releases",
+        "permalink": "/file-releases/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_sky_crash_conspiracy_88cabf",
+        "title": "Sky Crash",
+        "permalink": "/sky-crash/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "title": "Cabansag",
+        "permalink": "/cabansag/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_beacon_ligh_087880",
+        "title": "Beacon Light",
+        "permalink": "/beacon-light/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_duress_clai_8e783e",
+        "title": "Duress Claim",
+        "permalink": "/duress-claim/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_farmhouse_g_f27bf2",
+        "title": "Farmhouse Glow",
+        "permalink": "/farmhouse-glow/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_halt_memo_c_5127f1",
+        "title": "Memo Contrast",
+        "permalink": "/memo-contrast/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_patrol_posi_171d6a",
+        "title": "Patrol Position",
+        "permalink": "/patrol-position/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_statement_p_bd3cc6",
+        "title": "Statement Record",
+        "permalink": "/statement-record/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "title": "Charles Halt",
+        "permalink": "/charles-halt/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_actual_command_73fa2d",
+        "title": "Command Role",
+        "permalink": "/command-role/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_forest_search_d_cf8487",
+        "title": "Forest Search",
+        "permalink": "/forest-search/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_hearsay_da_f0220f",
+        "title": "Memo Errors",
+        "permalink": "/memo-errors/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_what_it_pr_93b70a",
+        "title": "Memo Meaning",
+        "permalink": "/memo-meaning/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_reporting_delay_e15e98",
+        "title": "Reporting Delay",
+        "permalink": "/reporting-delay/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_tape_witness_re_c0ec07",
+        "title": "Tape Reliability",
+        "permalink": "/tape-reliability/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "title": "Combined Theory",
+        "permalink": "/combined-theory/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_early_vs_later_accou_a773b4",
+        "title": "Changing Accounts",
+        "permalink": "/changing-accounts/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_fireball_first_alarm_bd69ca",
+        "title": "Fireball Trigger",
+        "permalink": "/fireball-trigger/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_halt_tape_flash_timi_c825ed",
+        "title": "Flash Timing",
+        "permalink": "/flash-timing/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_lighthouse_forest_vi_43527f",
+        "title": "Forest View",
+        "permalink": "/forest-view/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_red_light_color_mism_8ea757",
+        "title": "Red Light",
+        "permalink": "/red-light/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_sirius_southern_obje_f49264",
+        "title": "Sirius",
+        "permalink": "/sirius/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "title": "Story Changes",
+        "permalink": "/story-changes/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_burroughs_cabansag_c_2da4c9",
+        "title": "Corroboration",
+        "permalink": "/corroboration/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_five_statement_witne_bf4646",
+        "title": "Witness Count",
+        "permalink": "/witness-count/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_memo_merged_rep_987121",
+        "title": "Merged Reports",
+        "permalink": "/merged-reports/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_tape_contempora_77b8f6",
+        "title": "Tape Limits",
+        "permalink": "/tape-limits-45dea5/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_penniston_missing_ea_67e755",
+        "title": "Missing Details",
+        "permalink": "/missing-details/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_statement_release_de_b79077",
+        "title": "Delayed Release",
+        "permalink": "/delayed-release/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "title": "Perception",
+        "permalink": "/perception/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_autokinesis_light_mo_2781b7",
+        "title": "Autokinesis",
+        "permalink": "/autokinesis-3de43c/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_crash_expectation_se_fe9628",
+        "title": "Crash Expectation",
+        "permalink": "/crash-expectation/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_halt_lighthouse_timi_a79918",
+        "title": "Lighthouse Test",
+        "permalink": "/lighthouse-test/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_night_distance_error_d54893",
+        "title": "Night Distance",
+        "permalink": "/night-distance/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_separate_lights_one_6a06a7",
+        "title": "One Event",
+        "permalink": "/one-event/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_trees_apparent_motio_5b8d08",
+        "title": "Moving Lights",
+        "permalink": "/moving-lights/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "title": "Fireball",
+        "permalink": "/fireball/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_0250_fireball_first_00c7e8",
+        "title": "02 50 Fireball",
+        "permalink": "/02-50-fireball/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_brief_flash_long_sea_131467",
+        "title": "From Flash",
+        "permalink": "/from-flash/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_meteor_false_proximi_20a73d",
+        "title": "False Proximity",
+        "permalink": "/false-proximity/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_missing_wreckage_fir_57b21d",
+        "title": "Missing Wreckage",
+        "permalink": "/missing-wreckage/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d",
+        "title": "Date Correction",
+        "permalink": "/date-correction/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_tree_line_descent_il_40629e",
+        "title": "Tree Line Illusion",
+        "permalink": "/tree-line-illusion/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "title": "First Night",
+        "permalink": "/first-night/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_burroughs_cabansag_a_ed22c5",
+        "title": "Witness Contrast",
+        "permalink": "/witness-contrast/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_east_gate_aircraft_a_a2bccf",
+        "title": "East Gate Alarm",
+        "permalink": "/east-gate-alarm/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_night_distance_illus_eb6dae",
+        "title": "Night Illusions",
+        "permalink": "/night-illusions/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_orfordness_lighthous_207c2d",
+        "title": "Lighthouse Theory",
+        "permalink": "/lighthouse-theory/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_penniston_first_stat_5b9231",
+        "title": "Penniston Claim",
+        "permalink": "/penniston-claim/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_suffolk_police_searc_b6bc66",
+        "title": "Police Record",
+        "permalink": "/police-record/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "title": "Forest Terrain",
+        "permalink": "/forest-terrain/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_autokinetic_light_dr_98202a",
+        "title": "Autokinesis",
+        "permalink": "/autokinesis/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_forest_coast_route_l_85f8e2",
+        "title": "Route Shift",
+        "permalink": "/route-shift/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_halt_tape_range_esti_d3ff87",
+        "title": "Range Estimates",
+        "permalink": "/range-estimates/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_hidden_horizon_uneve_7ee536",
+        "title": "Hidden Horizon",
+        "permalink": "/hidden-horizon/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_parallax_stationary_9057b2",
+        "title": "Parallax",
+        "permalink": "/parallax/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_tree_gaps_apparent_b_870106",
+        "title": "Tree Gaps",
+        "permalink": "/tree-gaps/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "title": "Ground Marks",
+        "permalink": "/ground-marks/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_halt_memo_ground_mar_79e4f8",
+        "title": "Halt Memo",
+        "permalink": "/halt-memo-597ec4/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_landing_site_narrati_3ed3a6",
+        "title": "Landing Narrative",
+        "permalink": "/landing-narrative/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_missing_landing_trac_0bf631",
+        "title": "Missing Traces",
+        "permalink": "/missing-traces/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_rabbit_scrape_explan_4894de",
+        "title": "Rabbit Scrapes",
+        "permalink": "/rabbit-scrapes/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_suffolk_police_marks_84e994",
+        "title": "Police View",
+        "permalink": "/police-view/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_triangle_landing_pat_39af86",
+        "title": "Triangle Layout",
+        "permalink": "/triangle-layout/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "title": "Halt Memo",
+        "permalink": "/halt-memo/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_archive_pr_74fecb",
+        "title": "Archive Record",
+        "permalink": "/archive-record/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_reporting_e2eb0b",
+        "title": "Reporting Route",
+        "permalink": "/reporting-route/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_mod_no_defence_signi_42b0c0",
+        "title": "Mo D Decision",
+        "permalink": "/mo-d-decision/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_official_stationery_ad1b62",
+        "title": "Official Weight",
+        "permalink": "/official-weight/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00",
+        "title": "Radar Checks",
+        "permalink": "/radar-checks/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "title": "Unexplained",
+        "permalink": "/unexplained/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "title": "Halt s Night",
+        "permalink": "/halt-s-night/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_halt_tape_gaps_1a3374",
+        "title": "Tape Gaps",
+        "permalink": "/tape-gaps/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_landing_site_radiati_5b4e66",
+        "title": "Radiation",
+        "permalink": "/radiation-9ffd4b/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757",
+        "title": "The Meter",
+        "permalink": "/the-meter/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_reported_beam_retell_e4d3de",
+        "title": "The Beam",
+        "permalink": "/the-beam/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_sirius_star_objects_31b1e9",
+        "title": "Star Lights",
+        "permalink": "/star-lights/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_tree_damage_claims_3c6fb8",
+        "title": "Tree Damage",
+        "permalink": "/tree-damage-a7201b/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "title": "Halt Tape",
+        "permalink": "/halt-tape/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033",
+        "title": "Apparent Motion",
+        "permalink": "/apparent-motion/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424",
+        "title": "Tape Authenticity",
+        "permalink": "/tape-authenticity/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9",
+        "title": "Missing Evidence",
+        "permalink": "/missing-evidence/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_multiple_v_b51095",
+        "title": "Multiple Voices",
+        "permalink": "/multiple-voices/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_realtime_r_1a435d",
+        "title": "Real Time Reactions",
+        "permalink": "/real-time-reactions/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_vs_later_a_3657f7",
+        "title": "Tape vs Memo",
+        "permalink": "/tape-vs-memo/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "title": "Hoax Debate",
+        "permalink": "/hoax-debate/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894",
+        "title": "Contemporary Record",
+        "permalink": "/contemporary-record/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_kevin_conde_prank_cl_5a4c16",
+        "title": "Conde Prank",
+        "permalink": "/conde-prank/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d",
+        "title": "Larry Warren",
+        "permalink": "/larry-warren/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_penniston_changing_a_afe207",
+        "title": "Penniston",
+        "permalink": "/penniston-cb9547/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_rendlesham_merged_ni_7423ca",
+        "title": "Merged Nights",
+        "permalink": "/merged-nights/"
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_sas_hoax_story_scrut_98d0ea",
+        "title": "SAS Claim",
+        "permalink": "/sas-claim/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "title": "Charles Halt",
+        "permalink": "/charles-halt/",
+        "inline_inbound_count": 154
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "title": "Woodbridge",
+        "permalink": "/woodbridge/",
+        "inline_inbound_count": 86
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "title": "Lighthouse",
+        "permalink": "/lighthouse/",
+        "inline_inbound_count": 80
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "title": "Unexplained",
+        "permalink": "/unexplained/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "title": "Archives",
+        "permalink": "/archives/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "title": "Bentwaters",
+        "permalink": "/bentwaters/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "title": "First Night",
+        "permalink": "/first-night/",
+        "inline_inbound_count": 52
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_witness_statements_f_c22127",
+        "title": "Witness Dates",
+        "permalink": "/witness-dates/",
+        "inline_inbound_count": 51
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "title": "Perception",
+        "permalink": "/perception/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "title": "Burroughs",
+        "permalink": "/burroughs/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "title": "Radar",
+        "permalink": "/radar/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "title": "Radiation",
+        "permalink": "/radiation/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "title": "Ground Marks",
+        "permalink": "/ground-marks/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927",
+        "title": "Defence Significance",
+        "permalink": "/defence-significance/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894",
+        "title": "Contemporary Record",
+        "permalink": "/contemporary-record/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_visibilit_1c7927",
+        "title": "Visibility",
+        "permalink": "/visibility/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_burroughs_cabansag_c_2da4c9",
+        "title": "Corroboration",
+        "permalink": "/corroboration/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "title": "Bright Stars",
+        "permalink": "/bright-stars/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "title": "Cabansag",
+        "permalink": "/cabansag/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_suffolk_police_searc_b6bc66",
+        "title": "Police Record",
+        "permalink": "/police-record/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_reported_beam_retell_e4d3de",
+        "title": "The Beam",
+        "permalink": "/the-beam/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+        "title": "Scintillation",
+        "permalink": "/scintillation/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "title": "Fireball",
+        "permalink": "/fireball/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d",
+        "title": "Larry Warren",
+        "permalink": "/larry-warren/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_halt_tape_broken_bra_00a37d",
+        "title": "Broken Branches",
+        "permalink": "/broken-branches/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_military_witness_cre_632864",
+        "title": "Military Witnesses",
+        "permalink": "/military-witnesses/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_sirius_southern_obje_f49264",
+        "title": "Sirius",
+        "permalink": "/sirius/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_beacon_ligh_087880",
+        "title": "Beacon Light",
+        "permalink": "/beacon-light/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_trees_apparent_motio_5b8d08",
+        "title": "Moving Lights",
+        "permalink": "/moving-lights/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_parallax_stationary_9057b2",
+        "title": "Parallax",
+        "permalink": "/parallax/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_official_file_not_ve_487819",
+        "title": "Official File",
+        "permalink": "/official-file/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_five_secon_3c71ca",
+        "title": "Five Seconds",
+        "permalink": "/five-seconds/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "title": "Police Response",
+        "permalink": "/police-response/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_apparent_downward_be_7af092",
+        "title": "Apparent Beams",
+        "permalink": "/apparent-beams/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_red_light_color_mism_8ea757",
+        "title": "Red Light",
+        "permalink": "/red-light/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "title": "Case Legacy",
+        "permalink": "/case-legacy/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757",
+        "title": "The Meter",
+        "permalink": "/the-meter/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_hill_norton_challeng_8eeea7",
+        "title": "Hill Norton",
+        "permalink": "/hill-norton/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_public_re_fa3320",
+        "title": "Public Release",
+        "permalink": "/public-release/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_backgroun_169fb0",
+        "title": "Background Levels",
+        "permalink": "/background-levels/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_index",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "parent"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_index",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_kevin_conde_prank_cl_5a4c16",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_penniston_changing_a_afe207",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_rendlesham_merged_ni_7423ca",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_sas_hoax_story_scrut_98d0ea",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "ancestor"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "parent"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_brief_radar_return_c_9d158f",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_index",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_neatishead_no_unusua_90973f",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_proof_for_intr_eb0b76",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_return_vs_trac_e32354",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_watton_log_record_a97879",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_wrong_dates_radar_ch_a8de07",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "ancestor"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "parent"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_0250_fireball_first_00c7e8",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_brief_flash_long_sea_131467",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_index",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_meteor_false_proximi_20a73d",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_missing_wreckage_fir_57b21d",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_tree_line_descent_il_40629e",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "ancestor"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "parent"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_animal_tracks_ground_f1aeeb",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_delayed_arrival_sear_28c418",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_index",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_police_photo_site_co_073dd7",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_suffolk_police_recor_316017",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_three_marks_landing_54aec9",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa_west_drayton_aircraf_ff4e78",
+        "type": "child"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "ancestor"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35",
+        "type": "parent"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_wrong_dates_radar_ch_a8de07",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_neatishead_no_unusua_90973f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_watton_log_record_a97879",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_military_witness_cre_632864",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_reported_beam_retell_e4d3de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_five_secon_3c71ca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_parallax_stationary_9057b2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_visibilit_1c7927",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "to": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_official_file_not_ve_487819",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "to": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_hill_norton_challeng_8eeea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_rabbit_scrape_explan_4894de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_witness_statements_f_c22127",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_halt_tape_broken_bra_00a37d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_rabbit_scrape_explan_4894de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "to": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_witness_statements_f_c22127",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_probe_pos_ac4163",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "to": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_halt_tape_broken_bra_00a37d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_natural_branch_break_e398cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "to": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "to": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55",
+        "to": "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_twin_bases_structure_b70d65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_british_authority_tw_3f831c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_twin_bases_structure_b70d65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+        "to": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+        "to": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

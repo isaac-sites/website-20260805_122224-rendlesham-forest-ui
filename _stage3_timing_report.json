@@ -1,0 +1,1630 @@
+{
+  "version": 1,
+  "page_count": 65,
+  "total_page_seconds": 217.4072,
+  "average_page_seconds": 3.3447,
+  "phase_totals_seconds": {
+    "internal_links": 108.1295,
+    "content_assembly": 39.6563,
+    "monetization": 36.9362,
+    "media_svg": 21.2112,
+    "youtube": 5.062,
+    "quality_write": 3.0256,
+    "content_cleanup_final": 1.7083,
+    "preparation": 1.6455,
+    "content_cleanup_initial": 0.0319
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5655,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6814,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 1.0363,
+        "youtube": 1.3811,
+        "content_assembly": 0.7391,
+        "monetization": 2.6212,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4933,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7342,
+        "content_cleanup_final": 0.0449,
+        "media_svg": 0.1415,
+        "youtube": 1.3535,
+        "content_assembly": 0.6781,
+        "monetization": 2.4582,
+        "quality_write": 0.0554
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4806,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6462,
+        "content_cleanup_final": 0.0382,
+        "media_svg": 0.1447,
+        "youtube": 1.3345,
+        "content_assembly": 0.6794,
+        "monetization": 1.5563,
+        "quality_write": 0.0544
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3693,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6176,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3172,
+        "youtube": 0.0135,
+        "content_assembly": 0.5543,
+        "monetization": 2.7863,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0508,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6028,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3294,
+        "youtube": 0.0176,
+        "content_assembly": 0.5618,
+        "monetization": 2.4603,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7013,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8686,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.4925,
+        "youtube": 0.0209,
+        "content_assembly": 0.5889,
+        "monetization": 1.6395,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5035,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7385,
+        "content_cleanup_final": 0.0431,
+        "media_svg": 0.6649,
+        "youtube": 0.0223,
+        "content_assembly": 0.6972,
+        "monetization": 1.2483,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2127,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.675,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.3498,
+        "youtube": 0.0185,
+        "content_assembly": 0.7844,
+        "monetization": 1.3007,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_tape_evidence_l_234070",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0943,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6251,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3322,
+        "youtube": 0.016,
+        "content_assembly": 0.5549,
+        "monetization": 1.4889,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0318,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6861,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.5285,
+        "youtube": 0.0176,
+        "content_assembly": 0.6456,
+        "monetization": 1.049,
+        "quality_write": 0.0526
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_realtime_r_1a435d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8359,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6125,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3148,
+        "youtube": 0.0142,
+        "content_assembly": 0.5399,
+        "monetization": 1.2782,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8042,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6647,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.3262,
+        "youtube": 0.0161,
+        "content_assembly": 0.5598,
+        "monetization": 1.1571,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_mod_no_defence_signi_42b0c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7507,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6499,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3364,
+        "youtube": 0.0153,
+        "content_assembly": 0.5548,
+        "monetization": 1.1121,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_landing_site_radiati_5b4e66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7252,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7082,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.3157,
+        "youtube": 0.0154,
+        "content_assembly": 0.5377,
+        "monetization": 1.0703,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_natural_branch_break_e398cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7143,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6589,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3308,
+        "youtube": 0.0152,
+        "content_assembly": 0.5692,
+        "monetization": 1.0607,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_police_response_de39fa_police_photo_site_co_073dd7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6759,
+      "phases": {
+        "preparation": 0.1144,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.637,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.3105,
+        "youtube": 0.0142,
+        "content_assembly": 0.5507,
+        "monetization": 0.9753,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_threat_test_b6ff8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6756,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6249,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.3295,
+        "youtube": 0.015,
+        "content_assembly": 0.5522,
+        "monetization": 1.077,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_tree_marks_age_756112",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.674,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6492,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3389,
+        "youtube": 0.0152,
+        "content_assembly": 0.5399,
+        "monetization": 1.0577,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6713,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6598,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.1025,
+        "youtube": 0.0204,
+        "content_assembly": 0.6835,
+        "monetization": 1.0953,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_police_response_de39fa_three_marks_landing_54aec9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6643,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6256,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.33,
+        "youtube": 0.0155,
+        "content_assembly": 0.5599,
+        "monetization": 1.0509,
+        "quality_write": 0.0408
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5655,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6814,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 1.0363,
+        "youtube": 1.3811,
+        "content_assembly": 0.7391,
+        "monetization": 2.6212,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4933,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7342,
+        "content_cleanup_final": 0.0449,
+        "media_svg": 0.1415,
+        "youtube": 1.3535,
+        "content_assembly": 0.6781,
+        "monetization": 2.4582,
+        "quality_write": 0.0554
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4806,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6462,
+        "content_cleanup_final": 0.0382,
+        "media_svg": 0.1447,
+        "youtube": 1.3345,
+        "content_assembly": 0.6794,
+        "monetization": 1.5563,
+        "quality_write": 0.0544
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7328,
+      "phases": {
+        "preparation": 0.0318,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6552,
+        "content_cleanup_final": 0.0282,
+        "media_svg": 0.1519,
+        "youtube": 0.0178,
+        "content_assembly": 0.6852,
+        "monetization": 0.1085,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_police_response_de39fa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.575,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6038,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.1035,
+        "youtube": 0.0122,
+        "content_assembly": 0.6782,
+        "monetization": 1.0703,
+        "quality_write": 0.0512
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5483,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5896,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.0979,
+        "youtube": 0.0151,
+        "content_assembly": 0.6432,
+        "monetization": 0.0932,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2489,
+      "phases": {
+        "preparation": 0.0817,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6258,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.7023,
+        "youtube": 0.0173,
+        "content_assembly": 0.6307,
+        "monetization": 0.118,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5818,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6277,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.0976,
+        "youtube": 0.016,
+        "content_assembly": 0.6314,
+        "monetization": 0.1145,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5827,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6136,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.104,
+        "youtube": 0.0176,
+        "content_assembly": 0.6376,
+        "monetization": 0.1084,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6259,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6389,
+        "content_cleanup_final": 0.0297,
+        "media_svg": 0.1041,
+        "youtube": 0.0263,
+        "content_assembly": 0.6635,
+        "monetization": 0.0834,
+        "quality_write": 0.0526
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2944,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.758,
+        "content_cleanup_final": 0.0495,
+        "media_svg": 0.5694,
+        "youtube": 0.0191,
+        "content_assembly": 0.703,
+        "monetization": 0.1056,
+        "quality_write": 0.0628
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2546,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.588,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.7699,
+        "youtube": 0.0149,
+        "content_assembly": 0.6446,
+        "monetization": 0.1241,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7977,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6709,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.147,
+        "youtube": 0.0152,
+        "content_assembly": 0.6917,
+        "monetization": 0.1471,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8233,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.719,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.132,
+        "youtube": 0.0186,
+        "content_assembly": 0.702,
+        "monetization": 0.1344,
+        "quality_write": 0.0564
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6713,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6598,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.1025,
+        "youtube": 0.0204,
+        "content_assembly": 0.6835,
+        "monetization": 1.0953,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0318,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6861,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.5285,
+        "youtube": 0.0176,
+        "content_assembly": 0.6456,
+        "monetization": 1.049,
+        "quality_write": 0.0526
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6587,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6387,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.0993,
+        "youtube": 0.0223,
+        "content_assembly": 0.6888,
+        "monetization": 0.094,
+        "quality_write": 0.0582
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2897,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7077,
+        "content_cleanup_final": 0.0421,
+        "media_svg": 0.6199,
+        "youtube": 0.0111,
+        "content_assembly": 0.7004,
+        "monetization": 0.1195,
+        "quality_write": 0.0615
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9615,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8241,
+        "content_cleanup_final": 0.0438,
+        "media_svg": 0.1449,
+        "youtube": 0.0163,
+        "content_assembly": 0.7037,
+        "monetization": 0.139,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8748,
+      "phases": {
+        "preparation": 0.0283,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8091,
+        "content_cleanup_final": 0.0446,
+        "media_svg": 0.1037,
+        "youtube": 0.0192,
+        "content_assembly": 0.7142,
+        "monetization": 0.0957,
+        "quality_write": 0.0594
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8931,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7862,
+        "content_cleanup_final": 0.044,
+        "media_svg": 0.1102,
+        "youtube": 0.0208,
+        "content_assembly": 0.7262,
+        "monetization": 0.1191,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.572,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8278,
+        "content_cleanup_final": 0.0481,
+        "media_svg": 0.7487,
+        "youtube": 0.0284,
+        "content_assembly": 0.7115,
+        "monetization": 0.121,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5035,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7385,
+        "content_cleanup_final": 0.0431,
+        "media_svg": 0.6649,
+        "youtube": 0.0223,
+        "content_assembly": 0.6972,
+        "monetization": 1.2483,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7737,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7049,
+        "content_cleanup_final": 0.0348,
+        "media_svg": 0.131,
+        "youtube": 0.0122,
+        "content_assembly": 0.6831,
+        "monetization": 0.1244,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_kevin_conde_prank_cl_5a4c16",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.807,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6822,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.3328,
+        "youtube": 0.0158,
+        "content_assembly": 0.5555,
+        "monetization": 0.1353,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_sas_hoax_story_scrut_98d0ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7029,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6137,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.3264,
+        "youtube": 0.0149,
+        "content_assembly": 0.558,
+        "monetization": 0.1049,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_return_vs_trac_e32354",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8114,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6787,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.3332,
+        "youtube": 0.0123,
+        "content_assembly": 0.5754,
+        "monetization": 0.129,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_tree_marks_age_756112",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.674,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6492,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3389,
+        "youtube": 0.0152,
+        "content_assembly": 0.5399,
+        "monetization": 1.0577,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_police_response_de39fa_three_marks_landing_54aec9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6643,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6256,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.33,
+        "youtube": 0.0155,
+        "content_assembly": 0.5599,
+        "monetization": 1.0509,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_missing_wreckage_fir_57b21d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6206,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5556,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.3263,
+        "youtube": 0.0149,
+        "content_assembly": 0.5526,
+        "monetization": 0.0927,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8042,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6647,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.3262,
+        "youtube": 0.0161,
+        "content_assembly": 0.5598,
+        "monetization": 1.1571,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_threat_test_b6ff8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6756,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6249,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.3295,
+        "youtube": 0.015,
+        "content_assembly": 0.5522,
+        "monetization": 1.077,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_police_response_de39fa_police_photo_site_co_073dd7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6759,
+      "phases": {
+        "preparation": 0.1144,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.637,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.3105,
+        "youtube": 0.0142,
+        "content_assembly": 0.5507,
+        "monetization": 0.9753,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_police_response_de39fa_west_drayton_aircraf_ff4e78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7171,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6052,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3349,
+        "youtube": 0.0145,
+        "content_assembly": 0.5544,
+        "monetization": 0.1338,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_halt_tape_limits_a00c81",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2766,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5621,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.3298,
+        "youtube": 0.0148,
+        "content_assembly": 0.5548,
+        "monetization": 0.7349,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_east_gate_aircraft_a_a2bccf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.859,
+      "phases": {
+        "preparation": 0.1166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.662,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.3219,
+        "youtube": 0.0145,
+        "content_assembly": 0.5486,
+        "monetization": 0.1294,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_tape_evidence_l_234070",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0943,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6251,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3322,
+        "youtube": 0.016,
+        "content_assembly": 0.5549,
+        "monetization": 1.4889,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_missing_landing_trac_0bf631",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.666,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5921,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3199,
+        "youtube": 0.0164,
+        "content_assembly": 0.5537,
+        "monetization": 0.1083,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_triangle_landing_pat_39af86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.053,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6974,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.3549,
+        "youtube": 0.0184,
+        "content_assembly": 0.7776,
+        "monetization": 0.1289,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2127,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.675,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.3498,
+        "youtube": 0.0185,
+        "content_assembly": 0.7844,
+        "monetization": 1.3007,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7013,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8686,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.4925,
+        "youtube": 0.0209,
+        "content_assembly": 0.5889,
+        "monetization": 1.6395,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_backgroun_169fb0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6572,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6016,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.3141,
+        "youtube": 0.0145,
+        "content_assembly": 0.5349,
+        "monetization": 0.1107,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_realtime_r_1a435d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8359,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6125,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3148,
+        "youtube": 0.0142,
+        "content_assembly": 0.5399,
+        "monetization": 1.2782,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3693,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6176,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3172,
+        "youtube": 0.0135,
+        "content_assembly": 0.5543,
+        "monetization": 2.7863,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_controlle_2e252b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6732,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5626,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.3309,
+        "youtube": 0.0146,
+        "content_assembly": 0.5558,
+        "monetization": 0.1298,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_missing_tree_evidenc_47da9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7695,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6415,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.3251,
+        "youtube": 0.013,
+        "content_assembly": 0.5711,
+        "monetization": 0.1332,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_natural_branch_break_e398cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7143,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6589,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3308,
+        "youtube": 0.0152,
+        "content_assembly": 0.5692,
+        "monetization": 1.0607,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_binary_not_ec1e41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6963,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5892,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3336,
+        "youtube": 0.015,
+        "content_assembly": 0.5566,
+        "monetization": 0.1202,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_penniston_68e601",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7384,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6799,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.3358,
+        "youtube": 0.0144,
+        "content_assembly": 0.5397,
+        "monetization": 0.0867,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0508,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6028,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3294,
+        "youtube": 0.0176,
+        "content_assembly": 0.5618,
+        "monetization": 2.4603,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_credible_rendlesham_fda460",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3708,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.608,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3197,
+        "youtube": 0.0171,
+        "content_assembly": 0.5339,
+        "monetization": 0.8161,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_woodbridge_operation_08085c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.74,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6124,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.3355,
+        "youtube": 0.0096,
+        "content_assembly": 0.5656,
+        "monetization": 0.1337,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_autokinesis_star_mot_1a4c52",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7163,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6286,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3292,
+        "youtube": 0.0091,
+        "content_assembly": 0.5606,
+        "monetization": 0.111,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_hours_long_light_dur_a23214",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7177,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6047,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.3459,
+        "youtube": 0.0165,
+        "content_assembly": 0.5603,
+        "monetization": 0.115,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_sirius_southern_ligh_59d067",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8105,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7077,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3352,
+        "youtube": 0.0155,
+        "content_assembly": 0.5516,
+        "monetization": 0.1196,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_duress_clai_8e783e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7845,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6644,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3349,
+        "youtube": 0.0152,
+        "content_assembly": 0.601,
+        "monetization": 0.0882,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_mod_no_defence_signi_42b0c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7507,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6499,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3364,
+        "youtube": 0.0153,
+        "content_assembly": 0.5548,
+        "monetization": 1.1121,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7228,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6422,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.3232,
+        "youtube": 0.0092,
+        "content_assembly": 0.5476,
+        "monetization": 0.1165,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_landing_site_radiati_5b4e66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7252,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7082,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.3157,
+        "youtube": 0.0154,
+        "content_assembly": 0.5377,
+        "monetization": 1.0703,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_confiscated_photo_cl_234679",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.771,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6263,
+        "content_cleanup_final": 0.029,
+        "media_svg": 0.3254,
+        "youtube": 0.0144,
+        "content_assembly": 0.6082,
+        "monetization": 0.1068,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_missing_rendlesham_d_664dec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8785,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.776,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.3335,
+        "youtube": 0.0153,
+        "content_assembly": 0.5654,
+        "monetization": 0.1016,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_usaf_rendlesham_phot_a81c25",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9304,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8173,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.3335,
+        "youtube": 0.0156,
+        "content_assembly": 0.5695,
+        "monetization": 0.1053,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_binary_notebook_auth_2db8ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.723,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6297,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.3321,
+        "youtube": 0.0146,
+        "content_assembly": 0.5595,
+        "monetization": 0.1081,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_forest_parallax_ligh_47d4a2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7088,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6626,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.315,
+        "youtube": 0.0154,
+        "content_assembly": 0.5434,
+        "monetization": 0.0836,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_limits_of_star_expla_7e04a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7013,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6706,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.3189,
+        "youtube": 0.0141,
+        "content_assembly": 0.5307,
+        "monetization": 0.0894,
+        "quality_write": 0.0408
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 65,
+    "reused_pages": 146,
+    "rebuilt_pages": 65,
+    "error_pages": 0,
+    "page_work_wall_seconds": 96.2958,
+    "rebuilt_pages_per_minute": 40.5002,
+    "queued_rebuild_pages_per_minute": 40.5002,
+    "apparent_page_work_speedup": 2.2577,
+    "youtube_cache_prepare": {
+      "entries": 47289,
+      "updated": true,
+      "elapsed_seconds": 2.9323
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 65,
+      "successful_pages": 65,
+      "failed_pages": 0,
+      "worker_summary": {
+        "28996": {
+          "pages": 22,
+          "successes": 22,
+          "failures": 0,
+          "total_worker_seconds": 76.1197,
+          "max_worker_seconds": 7.6077,
+          "last_base_name": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_limits_of_star_expla_7e04a3"
+        },
+        "26908": {
+          "pages": 22,
+          "successes": 22,
+          "failures": 0,
+          "total_worker_seconds": 73.7954,
+          "max_worker_seconds": 6.5352,
+          "last_base_name": "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_forest_parallax_ligh_47d4a2"
+        },
+        "30604": {
+          "pages": 21,
+          "successes": 21,
+          "failures": 0,
+          "total_worker_seconds": 70.2834,
+          "max_worker_seconds": 5.5215,
+          "last_base_name": "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_binary_notebook_auth_2db8ed"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35",
+          "level": 1,
+          "success": true,
+          "worker_pid": 28996,
+          "worker_duration_seconds": 7.6077,
+          "total_seconds": 7.5655,
+          "worker_started_at_utc": "2026-08-05T11:08:27.394123Z",
+          "worker_finished_at_utc": "2026-08-05T11:08:34.959665Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26908,
+          "worker_duration_seconds": 6.5352,
+          "total_seconds": 6.4933,
+          "worker_started_at_utc": "2026-08-05T11:08:29.624880Z",
+          "worker_finished_at_utc": "2026-08-05T11:08:36.118213Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_radar_record_a826f3",
+          "level": 2,
+          "success": true,
+          "worker_pid": 30604,
+          "worker_duration_seconds": 5.5215,
+          "total_seconds": 5.4806,
+          "worker_started_at_utc": "2026-08-05T11:08:31.916130Z",
+          "worker_finished_at_utc": "2026-08-05T11:08:37.396734Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28996,
+          "worker_duration_seconds": 5.4115,
+          "total_seconds": 5.3693,
+          "worker_started_at_utc": "2026-08-05T11:09:16.463152Z",
+          "worker_finished_at_utc": "2026-08-05T11:09:21.832509Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26908,
+          "worker_duration_seconds": 5.0922,
+          "total_seconds": 5.0508,
+          "worker_started_at_utc": "2026-08-05T11:09:24.329559Z",
+          "worker_finished_at_utc": "2026-08-05T11:09:29.380383Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424",
+          "level": 3,
+          "success": true,
+          "worker_pid": 30604,
+          "worker_duration_seconds": 4.7443,
+          "total_seconds": 4.7013,
+          "worker_started_at_utc": "2026-08-05T11:09:13.767635Z",
+          "worker_finished_at_utc": "2026-08-05T11:09:18.468994Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0",
+          "level": 2,
+          "success": true,
+          "worker_pid": 30604,
+          "worker_duration_seconds": 4.5474,
+          "total_seconds": 4.5035,
+          "worker_started_at_utc": "2026-08-05T11:08:53.008920Z",
+          "worker_finished_at_utc": "2026-08-05T11:08:57.512417Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26908,
+          "worker_duration_seconds": 4.2542,
+          "total_seconds": 4.2127,
+          "worker_started_at_utc": "2026-08-05T11:09:13.382935Z",
+          "worker_finished_at_utc": "2026-08-05T11:09:17.595697Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_tape_evidence_l_234070",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26908,
+          "worker_duration_seconds": 4.1361,
+          "total_seconds": 4.0943,
+          "worker_started_at_utc": "2026-08-05T11:09:09.245455Z",
+          "worker_finished_at_utc": "2026-08-05T11:09:13.339823Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c",
+          "level": 2,
+          "success": true,
+          "worker_pid": 28996,
+          "worker_duration_seconds": 4.0783,
+          "total_seconds": 4.0318,
+          "worker_started_at_utc": "2026-08-05T11:08:46.587388Z",
+          "worker_finished_at_utc": "2026-08-05T11:08:50.619193Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

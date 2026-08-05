@@ -1,0 +1,2928 @@
+{
+  "generated_at": "2026-08-05T12:10:49",
+  "passed": true,
+  "baseline": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Rendlesham_Forest_UF_395b35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_halt_later_claims_vs_53784e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_official_file_not_ve_487819": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_orford_ness_lighthou_113010": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_binary_not_ec1e41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_expanding_e16bf7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_suffolk_police_findi_ce6208": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_british_authority_tw_3f831c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_east_gate_geography_8e7323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_security_command_cha_862404": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_twin_bases_structure_b70d65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_visual_radar_divide_0ccf8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_woodbridge_operation_08085c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_autokinesis_star_mot_1a4c52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_memorandum_evid_07411f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_northern_lights_05e99e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_hours_long_light_dur_a23214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_low_star_colour_flas_6f87b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_sirius_southern_ligh_59d067": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_1983_press_sensation_2b9252": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_memo_official_a_d14822": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_tape_immediacy_eb932e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_military_witness_cre_632864": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_official_files_both_1a96a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_sky_crash_conspiracy_88cabf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_beacon_ligh_087880": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_duress_clai_8e783e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_farmhouse_g_f27bf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_halt_memo_c_5127f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_patrol_posi_171d6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_statement_p_bd3cc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_actual_command_73fa2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_forest_search_d_cf8487": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_hearsay_da_f0220f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_what_it_pr_93b70a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_reporting_delay_e15e98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_tape_witness_re_c0ec07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_early_vs_later_accou_a773b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_fireball_first_alarm_bd69ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_halt_tape_flash_timi_c825ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_lighthouse_forest_vi_43527f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_red_light_color_mism_8ea757": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_sirius_southern_obje_f49264": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_burroughs_cabansag_c_2da4c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_five_statement_witne_bf4646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_memo_merged_rep_987121": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_tape_contempora_77b8f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_penniston_missing_ea_67e755": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_statement_release_de_b79077": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_autokinesis_light_mo_2781b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_crash_expectation_se_fe9628": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_halt_lighthouse_timi_a79918": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_night_distance_error_d54893": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_separate_lights_one_6a06a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_trees_apparent_motio_5b8d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_0250_fireball_first_00c7e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_brief_flash_long_sea_131467": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_meteor_false_proximi_20a73d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_missing_wreckage_fir_57b21d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_tree_line_descent_il_40629e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_burroughs_cabansag_a_ed22c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_east_gate_aircraft_a_a2bccf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_night_distance_illus_eb6dae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_orfordness_lighthous_207c2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_penniston_first_stat_5b9231": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_suffolk_police_searc_b6bc66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_autokinetic_light_dr_98202a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_forest_coast_route_l_85f8e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_halt_tape_range_esti_d3ff87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_hidden_horizon_uneve_7ee536": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_parallax_stationary_9057b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_tree_gaps_apparent_b_870106": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_halt_memo_ground_mar_79e4f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_landing_site_narrati_3ed3a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_missing_landing_trac_0bf631": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_rabbit_scrape_explan_4894de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_suffolk_police_marks_84e994": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_triangle_landing_pat_39af86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_archive_pr_74fecb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_reporting_e2eb0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_mod_no_defence_signi_42b0c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_official_stationery_ad1b62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_halt_tape_gaps_1a3374": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_landing_site_radiati_5b4e66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_reported_beam_retell_e4d3de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_sirius_star_objects_31b1e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_tree_damage_claims_3c6fb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_multiple_v_b51095": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_realtime_r_1a435d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_vs_later_a_3657f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_kevin_conde_prank_cl_5a4c16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_penniston_changing_a_afe207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_rendlesham_merged_ni_7423ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_sas_hoax_story_scrut_98d0ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_memory_cha_6d1e14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_original_s_a5106f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_penniston_68e601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_first_night_patrol_r_3b6402": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_rendlesham_forest_sc_493102": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_unarmed_rendlesham_p_749163": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_confiscated_photo_cl_234679": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_credible_rendlesham_fda460": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_halt_tape_limits_a00c81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_later_forest_samples_6f8951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_missing_rendlesham_d_664dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_usaf_rendlesham_phot_a81c25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_bright_lights_spy_th_e7601e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_hill_norton_challeng_8eeea7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_desk_review_4a61f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_threat_test_b6ff8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_quiet_response_signa_b3428f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_rendlesham_radar_gap_962b04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_memo_official_l_6a61e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_tape_evidence_l_234070": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_declassif_f110aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_missing_i_c72a28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_public_re_fa3320": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_fireball_corrected_d_8a8caa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_halt_tape_correct_da_aa412c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_overnight_shift_date_7fa34a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_police_records_first_9ac4cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_raf_watton_call_date_3d8901": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_witness_statements_f_c22127": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_five_secon_3c71ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_two_lights_disp_35f06c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_local_witness_lighth_05c5a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_beam_scre_3f1cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_visibilit_1c7927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_trees_apparent_light_f4ce56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_binary_notebook_auth_2db8ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_ascii_deco_3ccc0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_story_grow_cb2f70": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_symbols_cl_5d30e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_touch_clai_e958d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_ted_conrad_recollect_ea7b9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_animal_tracks_ground_f1aeeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_delayed_arrival_sear_28c418": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_police_photo_site_co_073dd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_suffolk_police_recor_316017": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_three_marks_landing_54aec9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_west_drayton_aircraf_ff4e78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_brief_radar_return_c_9d158f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_neatishead_no_unusua_90973f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_proof_for_intr_eb0b76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_return_vs_trac_e32354": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_watton_log_record_a97879": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_wrong_dates_radar_ch_a8de07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_halt_tape_memo_radia_13e00c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_backgroun_169fb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_controlle_2e252b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_lab_testi_dc40a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_meter_rel_dcee26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_probe_pos_ac4163": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_apparent_downward_be_7af092": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_fixation_expectation_1bc13b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_forest_parallax_ligh_47d4a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_limits_of_star_expla_7e04a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_night_optics_star_di_f02788": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_testing_star_identif_27c323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_canopy_descent_path_b9e699": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_forestry_axe_blazes_b9a552": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_halt_tape_broken_bra_00a37d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_missing_tree_evidenc_47da9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_natural_branch_break_e398cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_tree_marks_age_756112": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_civilian_land_jurisd_8eef6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_east_gate_runway_for_56f657": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_gate_exit_command_pe_8c41c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_security_police_duti_ca5935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_woodbridge_emergency_4874a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_woodbridge_rescue_mi_161ae6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Rendlesham_Forest_UF_395b35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_halt_later_claims_vs_53784e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_official_file_not_ve_487819": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_orford_ness_lighthou_113010": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_binary_not_ec1e41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_penniston_expanding_e16bf7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034_suffolk_police_findi_ce6208": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_british_authority_tw_3f831c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_east_gate_geography_8e7323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_security_command_cha_862404": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_twin_bases_structure_b70d65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_visual_radar_divide_0ccf8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041_woodbridge_operation_08085c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_autokinesis_star_mot_1a4c52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_memorandum_evid_07411f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_halt_northern_lights_05e99e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_hours_long_light_dur_a23214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_low_star_colour_flas_6f87b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_bright_stars_explana_881414_sirius_southern_ligh_59d067": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_1983_press_sensation_2b9252": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_memo_official_a_d14822": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_halt_tape_immediacy_eb932e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_military_witness_cre_632864": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_official_files_both_1a96a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_britains_best_known_66bc55_sky_crash_conspiracy_88cabf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_beacon_ligh_087880": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_duress_clai_8e783e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_farmhouse_g_f27bf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_halt_memo_c_5127f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_patrol_posi_171d6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_cabansag_statement_p_bd3cc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cabansag_witness_dif_e82dee_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_actual_command_73fa2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_forest_search_d_cf8487": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_hearsay_da_f0220f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_memo_what_it_pr_93b70a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_reporting_delay_e15e98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_halt_tape_witness_re_c0ec07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_early_vs_later_accou_a773b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_fireball_first_alarm_bd69ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_halt_tape_flash_timi_c825ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_lighthouse_forest_vi_43527f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_red_light_color_mism_8ea757": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_cumulative_explanati_828936_sirius_southern_obje_f49264": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_burroughs_cabansag_c_2da4c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_five_statement_witne_bf4646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_memo_merged_rep_987121": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_halt_tape_contempora_77b8f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_penniston_missing_ea_67e755": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4_statement_release_de_b79077": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_autokinesis_light_mo_2781b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_crash_expectation_se_fe9628": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_halt_lighthouse_timi_a79918": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_night_distance_error_d54893": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_separate_lights_one_6a06a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_expectation_misperce_e245cd_trees_apparent_motio_5b8d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_0250_fireball_first_00c7e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_brief_flash_long_sea_131467": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_meteor_false_proximi_20a73d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_missing_wreckage_fir_57b21d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_rendlesham_date_corr_ef217d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_fireball_theory_cedb70_tree_line_descent_il_40629e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_burroughs_cabansag_a_ed22c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_east_gate_aircraft_a_a2bccf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_night_distance_illus_eb6dae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_orfordness_lighthous_207c2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_penniston_first_stat_5b9231": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_first_night_search_48d6ca_suffolk_police_searc_b6bc66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_autokinetic_light_dr_98202a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_forest_coast_route_l_85f8e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_halt_tape_range_esti_d3ff87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_hidden_horizon_uneve_7ee536": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_parallax_stationary_9057b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_forest_visibility_a020d6_tree_gaps_apparent_b_870106": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_halt_memo_ground_mar_79e4f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_landing_site_narrati_3ed3a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_missing_landing_trac_0bf631": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_rabbit_scrape_explan_4894de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_suffolk_police_marks_84e994": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_ground_depressions_8e3bd4_triangle_landing_pat_39af86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_archive_pr_74fecb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_halt_memo_reporting_e2eb0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_mod_no_defence_signi_42b0c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_official_stationery_ad1b62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_rendlesham_negative_d76b00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6_unexplained_lights_m_0d8f39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_halt_tape_gaps_1a3374": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_landing_site_radiati_5b4e66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_radiation_meter_limi_384757": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_reported_beam_retell_e4d3de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_sirius_star_objects_31b1e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_night_investiga_d5a062_tree_damage_claims_3c6fb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_apparent_m_ff8033": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_copy_authe_e9e424": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_missing_ev_b216c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_multiple_v_b51095": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_realtime_r_1a435d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_halt_tape_vs_later_a_3657f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_contemporary_records_84e894": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_kevin_conde_prank_cl_5a4c16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_larry_warren_dispute_30391d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_penniston_changing_a_afe207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_rendlesham_merged_ni_7423ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_hoax_debate_bff72c_sas_hoax_story_scrut_98d0ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_memory_cha_6d1e14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_original_s_a5106f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_burroughs_penniston_68e601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_first_night_patrol_r_3b6402": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_rendlesham_forest_sc_493102": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_john_burroughs_accou_54a8f1_unarmed_rendlesham_p_749163": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_confiscated_photo_cl_234679": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_credible_rendlesham_fda460": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_halt_tape_limits_a00c81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_later_forest_samples_6f8951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_missing_rendlesham_d_664dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_missing_physical_pro_18e33d_usaf_rendlesham_phot_a81c25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_bright_lights_spy_th_e7601e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_hill_norton_challeng_8eeea7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_desk_review_4a61f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_mod_threat_test_b6ff8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_quiet_response_signa_b3428f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30_rendlesham_radar_gap_962b04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_memo_official_l_6a61e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_halt_tape_evidence_l_234070": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_no_defence_significa_015927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_declassif_f110aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_missing_i_c72a28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_archives_03d104_rendlesham_public_re_fa3320": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_fireball_corrected_d_8a8caa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_halt_tape_correct_da_aa412c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_overnight_shift_date_7fa34a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_police_records_first_9ac4cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_raf_watton_call_date_3d8901": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_official_date_errors_5e4bf0_witness_statements_f_c22127": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_five_secon_3c71ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_two_lights_disp_35f06c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_local_witness_lighth_05c5a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_beam_scre_3f1cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_orfordness_visibilit_1c7927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_trees_apparent_light_f4ce56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_binary_notebook_auth_2db8ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_ascii_deco_3ccc0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_story_grow_cb2f70": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_symbols_cl_5d30e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_penniston_touch_clai_e958d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_penniston_changing_s_6bb323_ted_conrad_recollect_ea7b9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_animal_tracks_ground_f1aeeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_delayed_arrival_sear_28c418": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_police_photo_site_co_073dd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_suffolk_police_recor_316017": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_three_marks_landing_54aec9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_police_response_de39fa_west_drayton_aircraf_ff4e78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_brief_radar_return_c_9d158f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_neatishead_no_unusua_90973f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_proof_for_intr_eb0b76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_radar_return_vs_trac_e32354": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_watton_log_record_a97879": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radar_record_a826f3_wrong_dates_radar_ch_a8de07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_halt_tape_memo_radia_13e00c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_backgroun_169fb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_controlle_2e252b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_lab_testi_dc40a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_meter_rel_dcee26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_rendlesham_probe_pos_ac4163": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_apparent_downward_be_7af092": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_fixation_expectation_1bc13b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_forest_parallax_ligh_47d4a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_limits_of_star_expla_7e04a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_night_optics_star_di_f02788": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc_testing_star_identif_27c323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_canopy_descent_path_b9e699": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_forestry_axe_blazes_b9a552": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_halt_tape_broken_bra_00a37d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_missing_tree_evidenc_47da9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_natural_branch_break_e398cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8_tree_marks_age_756112": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_civilian_land_jurisd_8eef6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_east_gate_runway_for_56f657": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_gate_exit_command_pe_8c41c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_security_police_duti_ca5935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_woodbridge_emergency_4874a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rendlesham_Forest_UF_395b35_woodbridge_security_ded0de_woodbridge_rescue_mi_161ae6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 242,
+  "regressions": []
+}
