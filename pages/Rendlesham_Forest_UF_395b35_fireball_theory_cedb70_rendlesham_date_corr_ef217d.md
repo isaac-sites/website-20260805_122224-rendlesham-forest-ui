@@ -815,11 +815,13 @@ What the correction does establish is narrower but historically important. A sim
 
 7.<a id="endnote-7"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/imo_view/event/1980/44" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/event/1980/44</a>  
+   Title: AMS Fireball Database (event record currently unavailable at source)  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
 8.<a id="endnote-8"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/imo_view/event/1980/50" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/event/1980/50</a>  
+   Title: AMS Fireball Database (event record currently unavailable at source)  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
 9.<a id="endnote-9"></a>
    Source: ianridpath.com  

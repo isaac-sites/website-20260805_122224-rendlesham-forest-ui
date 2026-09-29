@@ -845,11 +845,13 @@ Its significance lies less in proving that every subsequent observation had the 
 
 8.<a id="endnote-8"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/imo_view/event/1980/44" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/event/1980/44</a>  
+   Title: AMS Fireball Database (event record currently unavailable at source)  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
 9.<a id="endnote-9"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/imo_view/event/1980/50" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/event/1980/50</a>  
+   Title: AMS Fireball Database (event record currently unavailable at source)  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
 10.<a id="endnote-10"></a>
    Source: ianridpath.com  
@@ -858,7 +860,7 @@ Its significance lies less in proving that every subsequent observation had the 
 
 11.<a id="endnote-11"></a>
    Source: wiki.mikanservu.com  
-   Title: Rendlesham Forest incident  
+   Title: Rendlesham Forest incident (archived; mirror offline)  
    Link:<a href="https://wiki.mikanservu.com/content/wikipedia_en_all_maxi_2024-01/A/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://wiki.mikanservu.com/content/wikipedia_en_all_maxi_2024-01/A/Rendlesham_Forest_incident</a>  
 
 12.<a id="endnote-12"></a>
@@ -895,13 +897,15 @@ Its significance lies less in proving that every subsequent observation had the 
 
 17.<a id="endnote-17"></a>
    Source: fireball.amsmeteors.org  
-   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/report/378479" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/report/378479</a>  
+   Title: AMS Fireball Database (event record currently unavailable at source)  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 3, 2025 — REPORTS REPORT 3666DR (EVENT 3666-2025) This report has been linked to the following event: Event 3666-2025 Observer --- N...</p></details>
    Published: July 3, 2025  
 
 18.<a id="endnote-18"></a>
    Source: fireballs.imo.net  
-   Link:<a href="https://fireballs.imo.net/members/imo_view/report/430764" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo_view/report/430764</a>  
+   Title: IMO Fireball Reports (event record currently unavailable at source)  
+   Link:<a href="https://fireballs.imo.net/members/imo/report_intro" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo/report_intro</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 13, 2026 — REPORTS REPORT 5397A (EVENT 5397-2026) This report has been linked to the following event: Event 5397-2026 Observer --- N...</p></details>
    Published: July 13, 2026  
 
