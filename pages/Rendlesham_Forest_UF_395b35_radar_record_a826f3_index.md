@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-radar/
 description: Focused pages that expand on Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_radar_record_a826f3
 parent_title: Radar | Rendlesham Forest

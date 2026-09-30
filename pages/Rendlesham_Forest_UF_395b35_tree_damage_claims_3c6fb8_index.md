@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-tree/
 description: Focused pages that expand on Tree Damage.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_tree_damage_claims_3c6fb8
 parent_title: Tree Damage | Rendlesham Forest

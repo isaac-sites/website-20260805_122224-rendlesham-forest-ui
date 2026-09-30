@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-stellar/
 description: Focused pages that expand on Scintillation.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_stellar_scintillatio_1f67cc
 parent_title: Scintillation | Rendlesham Forest

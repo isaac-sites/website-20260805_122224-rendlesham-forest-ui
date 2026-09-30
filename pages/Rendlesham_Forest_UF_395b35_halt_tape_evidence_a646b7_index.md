@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-halt-tape/
 description: Focused pages that expand on Halt Tape.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_halt_tape_evidence_a646b7
 parent_title: Halt Tape | Rendlesham Forest
