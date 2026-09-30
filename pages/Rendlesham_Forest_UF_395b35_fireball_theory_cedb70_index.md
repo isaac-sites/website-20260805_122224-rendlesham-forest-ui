@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-fireball/
 description: Focused pages that expand on Fireball.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_fireball_theory_cedb70
 parent_title: Fireball | Rendlesham Forest

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-halt/
 description: Focused pages that expand on Halt Memo.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_halt_memorandum_mean_f7ddc6
 parent_title: Halt Memo | Rendlesham Forest

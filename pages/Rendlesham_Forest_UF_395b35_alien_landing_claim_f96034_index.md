@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-alien/
 description: Focused pages that expand on Alien Claim.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_alien_landing_claim_f96034
 parent_title: Alien Claim | Rendlesham Forest
