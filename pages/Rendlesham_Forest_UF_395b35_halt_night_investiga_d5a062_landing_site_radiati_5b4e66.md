@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 12:32:51'
+last_modified_at: '2026-08-04 12:32:51'
 parent_title: Inside Charles Halt's Recorded Night in the Forest | Rendlesham Forest
 parent_permalink: /halt-s-night/
 parent_nav_short_title: Halt s Night

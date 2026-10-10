@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-early-vs/
 description: Focused pages that expand on Story Changes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_early_vs_later_accou_a773b4
 parent_title: Story Changes | Rendlesham Forest

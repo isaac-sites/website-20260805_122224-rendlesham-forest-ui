@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-mod/
 description: Focused pages that expand on MOD Review.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_mod_defence_signific_501b30
 parent_title: MOD Review | Rendlesham Forest

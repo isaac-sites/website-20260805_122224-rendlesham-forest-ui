@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-first/
 description: Focused pages that expand on First Night.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_first_night_search_48d6ca
 parent_title: First Night | Rendlesham Forest

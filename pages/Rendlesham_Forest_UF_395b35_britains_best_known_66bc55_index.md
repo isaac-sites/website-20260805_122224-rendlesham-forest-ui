@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-britains/
 description: Focused pages that expand on Case Legacy.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_britains_best_known_66bc55
 parent_title: Case Legacy | Rendlesham Forest

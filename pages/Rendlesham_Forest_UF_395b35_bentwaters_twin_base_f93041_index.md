@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-bentwaters/
 description: Focused pages that expand on Bentwaters.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_bentwaters_twin_base_f93041
 parent_title: Bentwaters | Rendlesham Forest

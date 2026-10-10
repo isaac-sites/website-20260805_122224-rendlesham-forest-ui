@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 12:32:53'
+last_modified_at: '2026-08-04 12:32:53'
 parent_title: Why Charles Halt Became the Case's Central Witness | Rendlesham Forest
 parent_permalink: /charles-halt/
 parent_nav_short_title: Charles Halt

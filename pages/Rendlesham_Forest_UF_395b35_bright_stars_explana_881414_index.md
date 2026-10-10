@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-bright/
 description: Focused pages that expand on Bright Stars.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_bright_stars_explana_881414
 parent_title: Bright Stars | Rendlesham Forest

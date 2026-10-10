@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-charles/
 description: Focused pages that expand on Charles Halt.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_charles_halt_witness_d5534c
 parent_title: Charles Halt | Rendlesham Forest
