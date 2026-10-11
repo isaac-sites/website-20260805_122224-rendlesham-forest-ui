@@ -906,7 +906,6 @@ Within the wider history of the Rendlesham Forest incident, Hill-Norton's interv
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 15.<a id="endnote-15"></a>
    Source: nhinewsnetwork.com  

@@ -1092,7 +1092,6 @@ The fairest assessment is therefore that Rendlesham was probably not a single pl
 22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 23.<a id="endnote-23"></a>
    Source: en.ikwipedia.org  
@@ -1158,7 +1157,6 @@ The fairest assessment is therefore that Rendlesham was probably not a single pl
 36.<a id="endnote-36"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 37.<a id="endnote-37"></a>
    Source: kids.kiddle.co  

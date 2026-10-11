@@ -858,7 +858,6 @@ Viewed in this way, the East Gate alarm serves as the practical starting point o
 10.<a id="endnote-10"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 11.<a id="endnote-11"></a>
    Source: rendlesham-forest.weebly.com  

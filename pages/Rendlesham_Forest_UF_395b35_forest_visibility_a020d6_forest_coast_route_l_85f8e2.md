@@ -868,7 +868,6 @@ Whether one concludes that the principal light was the Orford Ness lighthouse, a
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

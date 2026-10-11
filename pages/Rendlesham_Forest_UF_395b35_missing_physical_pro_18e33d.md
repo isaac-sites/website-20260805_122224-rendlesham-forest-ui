@@ -1030,7 +1030,6 @@ That leaves Rendlesham as a well-documented **sighting case**, but a poorly evid
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this...</p></details>
 
 11.<a id="endnote-11"></a>
@@ -1184,7 +1183,6 @@ That leaves Rendlesham as a well-documented **sighting case**, but a poorly evid
 41.<a id="endnote-41"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
@@ -1199,7 +1197,6 @@ That leaves Rendlesham as a well-documented **sighting case**, but a poorly evid
 44.<a id="endnote-44"></a>
    Source: nationalarchives.gov.uk  
    Title: Interrogation of a spy  
-   Link:https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/  
 
 45.<a id="endnote-45"></a>
    Source: nationalarchives.gov.uk  

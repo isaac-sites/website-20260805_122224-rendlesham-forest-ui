@@ -881,7 +881,6 @@ For that reason, parallax is most useful as a caution against interpreting perce
 13.<a id="endnote-13"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

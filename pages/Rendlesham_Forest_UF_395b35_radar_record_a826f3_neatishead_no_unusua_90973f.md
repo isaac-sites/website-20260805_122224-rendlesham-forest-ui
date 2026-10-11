@@ -889,7 +889,6 @@ The surviving records indicate that it did not. That absence of corroborating ra
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: R101 airship disaster  
-   Link:https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/  
 
 ### Additional References
 

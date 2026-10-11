@@ -875,7 +875,6 @@ At the same time, the recording does not establish that every participant observ
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: Interrogation of a spy  
-   Link:https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/  
 
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  

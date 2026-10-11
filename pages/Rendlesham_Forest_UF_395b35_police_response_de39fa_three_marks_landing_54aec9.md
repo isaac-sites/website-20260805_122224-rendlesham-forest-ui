@@ -860,7 +860,6 @@ That distinction remains one of the most important evidential boundaries in the 
 8.<a id="endnote-8"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 9.<a id="endnote-9"></a>
    Source: rendlesham-forest.weebly.com  

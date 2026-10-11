@@ -993,7 +993,6 @@ Taken together, these records make Rendlesham unusually open to source compariso
 3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDEFE 24/1948DEFE 24/1948 Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out mo...</p></details>
 
 4.<a id="endnote-4"></a>
