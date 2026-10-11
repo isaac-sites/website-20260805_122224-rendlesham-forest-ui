@@ -1063,7 +1063,7 @@ The most defensible reading is therefore straightforward. The East Gate placed a
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 21.<a id="endnote-21"></a>
    Source: themorbidtourist.com  

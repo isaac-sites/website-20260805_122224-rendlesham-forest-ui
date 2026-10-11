@@ -482,7 +482,7 @@ That distinction matters. The surviving material supports the conclusion that mi
 
 ## Evidence the case does preserve
 
-The strongest surviving evidence is documentary rather than physical. Halt’s one-page memorandum, dated 13 January 1981, records reports of a metallic-looking object, three [ground depressions]({{ 'ground-marks/' | relative_url }}), damaged trees, radiation readings and later lights in the sky. The memorandum is unquestionably an official document, but official status authenticates the report—not the interpretation placed upon the reported events. The Ministry of Defence’s archived material describes the incident as an alleged sighting and records its judgement that it contained nothing of defence interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this...</span></span></span>
+The strongest surviving evidence is documentary rather than physical. Halt’s one-page memorandum, dated 13 January 1981, records reports of a metallic-looking object, three [ground depressions]({{ 'ground-marks/' | relative_url }}), damaged trees, radiation readings and later lights in the sky. The memorandum is unquestionably an official document, but official status authenticates the report—not the interpretation placed upon the reported events. The Ministry of Defence’s archived material describes the incident as an alleged sighting and records its judgement that it contained nothing of defence interest.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this...</span></span></span>
 
 
 
@@ -1030,7 +1030,7 @@ That leaves Rendlesham as a well-documented **sighting case**, but a poorly evid
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this...</p></details>
 
 11.<a id="endnote-11"></a>
@@ -1184,7 +1184,7 @@ That leaves Rendlesham as a well-documented **sighting case**, but a poorly evid
 41.<a id="endnote-41"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
@@ -1199,7 +1199,7 @@ That leaves Rendlesham as a well-documented **sighting case**, but a poorly evid
 44.<a id="endnote-44"></a>
    Source: nationalarchives.gov.uk  
    Title: Interrogation of a spy  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/  
 
 45.<a id="endnote-45"></a>
    Source: nationalarchives.gov.uk  

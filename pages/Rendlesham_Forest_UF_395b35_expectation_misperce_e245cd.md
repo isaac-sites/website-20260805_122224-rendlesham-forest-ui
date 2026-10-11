@@ -1182,12 +1182,12 @@ Most importantly, it avoids a false choice between “the witnesses were reliabl
 41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
    Title: R101 airship disaster  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/  
 
 42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports</a>  
+   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 
 43.<a id="endnote-43"></a>
    Source: nationalarchives.gov.uk  
@@ -1217,7 +1217,7 @@ Most importantly, it avoids a false choice between “the witnesses were reliabl
 48.<a id="endnote-48"></a>
    Source: nationalarchives.gov.uk  
    Title: Spa Fields witness  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/spa-fields-witness/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/spa-fields-witness/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/spa-fields-witness/  
 
 49.<a id="endnote-49"></a>
    Source: nationalarchives.gov.uk  

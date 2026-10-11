@@ -1187,7 +1187,7 @@ What remains compelling is the human record: calm procedure giving way to uncert
 36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
    Title: R101 airship disaster  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/  
 
 37.<a id="endnote-37"></a>
    Source: ianridpath.com  

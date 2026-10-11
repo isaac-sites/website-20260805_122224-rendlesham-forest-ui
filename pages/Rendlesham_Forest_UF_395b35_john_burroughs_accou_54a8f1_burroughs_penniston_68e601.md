@@ -844,7 +844,7 @@ What can be said with confidence is that Burroughs did not corroborate the centr
 8.<a id="endnote-8"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 9.<a id="endnote-9"></a>
    Source: mystery.frey-united.com  

@@ -887,7 +887,7 @@ The surviving records support neither extreme. Instead, they establish that an i
 15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: Interrogation of a spy  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/  
 
 16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
@@ -902,7 +902,7 @@ The surviving records support neither extreme. Instead, they establish that an i
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: R101 airship disaster  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/  
 
 19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
