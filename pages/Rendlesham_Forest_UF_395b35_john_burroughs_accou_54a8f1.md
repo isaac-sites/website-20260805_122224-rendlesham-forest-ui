@@ -1133,7 +1133,7 @@ For reconstructing the first night, Burroughs is therefore most useful when his 
 32.<a id="endnote-32"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 33.<a id="endnote-33"></a>
    Source: bible.usccb.org  

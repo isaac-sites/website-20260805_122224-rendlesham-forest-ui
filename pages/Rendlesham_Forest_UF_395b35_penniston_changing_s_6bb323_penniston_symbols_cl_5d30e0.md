@@ -827,7 +827,7 @@ For that reason, the symbols are best understood not as independently authentica
 4.<a id="endnote-4"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;): Non-Human IntelligenceThe Rendlesham Forest Incident | Suffolk, 1980 | Project Archives: Non-Human Intelligence...</p></details>
 
 5.<a id="endnote-5"></a>

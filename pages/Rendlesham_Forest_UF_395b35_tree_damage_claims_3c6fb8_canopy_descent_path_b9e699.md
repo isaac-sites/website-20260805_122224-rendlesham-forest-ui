@@ -874,7 +874,7 @@ Within the broader discussion of damaged branches and other physical traces at R
 7.<a id="endnote-7"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 8.<a id="endnote-8"></a>
    Source: therendleshamforestincident.com  

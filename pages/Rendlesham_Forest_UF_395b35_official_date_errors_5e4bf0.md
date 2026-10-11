@@ -1167,7 +1167,7 @@ The broader lesson is limited but important: official status is evidence of prov
 37.<a id="endnote-37"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 38.<a id="endnote-38"></a>
    Source: whatdotheyknow.com  

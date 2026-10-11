@@ -1143,7 +1143,7 @@ The most accurate reading therefore lies between two common extremes. The memora
 31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  

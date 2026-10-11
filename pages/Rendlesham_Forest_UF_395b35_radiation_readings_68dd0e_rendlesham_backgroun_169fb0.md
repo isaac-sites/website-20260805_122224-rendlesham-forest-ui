@@ -901,7 +901,7 @@ For those reasons, most technical assessments conclude that the readings cannot 
 12.<a id="endnote-12"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 13.<a id="endnote-13"></a>
    Source: military-history.fandom.com  

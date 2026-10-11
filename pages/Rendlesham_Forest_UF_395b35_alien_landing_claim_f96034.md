@@ -1114,7 +1114,7 @@ The most defensible conclusion is therefore narrower than either extreme. Rendle
 33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
    Title: Source Five  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/mangrove-nine-protest/source-five/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/mangrove-nine-protest/source-five/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/mangrove-nine-protest/source-five/  
 
 34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
@@ -1138,12 +1138,12 @@ The most defensible conclusion is therefore narrower than either extreme. Rendle
 38.<a id="endnote-38"></a>
    Source: nationalarchives.gov.uk  
    Title: Spa Fields witness  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/spa-fields-witness/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/spa-fields-witness/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/spa-fields-witness/  
 
 39.<a id="endnote-39"></a>
    Source: nationalarchives.gov.uk  
    Title: R101 airship disaster  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/thirties-britain/r101-airship-disaster/  
 
 40.<a id="endnote-40"></a>
    Source: nationalarchives.gov.uk  
@@ -1153,7 +1153,7 @@ The most defensible conclusion is therefore narrower than either extreme. Rendle
 41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
    Title: Interrogation of a spy  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/interrogation-of-a-spy/  
 
 42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
@@ -1224,7 +1224,7 @@ The most defensible conclusion is therefore narrower than either extreme. Rendle
 57.<a id="endnote-57"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 58.<a id="endnote-58"></a>
    Source: minister.defence.gov.au  
@@ -1273,7 +1273,7 @@ The most defensible conclusion is therefore narrower than either extreme. Rendle
 67.<a id="endnote-67"></a>
    Source: nationalarchives.gov.uk  
    Title: source 4  
-   Link:<a href="https://www.nationalarchives.gov.uk/education/resources/belsen-concentration-camp/source-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/education/resources/belsen-concentration-camp/source-4/</a>  
+   Link:https://www.nationalarchives.gov.uk/education/resources/belsen-concentration-camp/source-4/  
 
 ### Additional References
 

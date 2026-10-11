@@ -834,7 +834,7 @@ For that reason, the drawing occupies a central place in debates over the Rendle
 5.<a id="endnote-5"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 6.<a id="endnote-6"></a>
    Source: theblackarchive.net  

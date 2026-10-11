@@ -857,7 +857,7 @@ That setting explains why experienced security personnel initially treated the l
 11.<a id="endnote-11"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 12.<a id="endnote-12"></a>
    Source: ufolinks4u.blogspot.com  

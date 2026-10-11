@@ -867,7 +867,7 @@ These uncertainties do not substantially weaken its chronological value. The rep
 9.<a id="endnote-9"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 10.<a id="endnote-10"></a>
    Source: ianridpath.com  

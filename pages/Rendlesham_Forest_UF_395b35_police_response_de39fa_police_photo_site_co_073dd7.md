@@ -885,7 +885,7 @@ The image therefore has genuine historical value, but its evidential weight is n
 16.<a id="endnote-16"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
