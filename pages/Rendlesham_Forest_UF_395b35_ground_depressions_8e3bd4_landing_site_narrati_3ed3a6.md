@@ -805,7 +805,6 @@ This distinction explains why the same small depressions continue to occupy such
 11.<a id="endnote-11"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 12.<a id="endnote-12"></a>
    Source: kevinharville.com  

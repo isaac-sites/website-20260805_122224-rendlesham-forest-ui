@@ -887,7 +887,6 @@ Neither interpretation changes the documentary record. The surviving police log 
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 15.<a id="endnote-15"></a>
    Source: military-history.fandom.com  

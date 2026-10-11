@@ -830,7 +830,6 @@ That distinction is significant. The existence of ground marks is an observable 
 7.<a id="endnote-7"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 8.<a id="endnote-8"></a>
    Source: ianridpath.com  

@@ -850,7 +850,6 @@ The key point is methodological. Before treating apparent motion through the tre
 8.<a id="endnote-8"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 9.<a id="endnote-9"></a>
    Source: wiki.mikanservu.com  

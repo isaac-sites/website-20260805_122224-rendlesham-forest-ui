@@ -847,7 +847,6 @@ For these reasons, Penniston's changing account is best understood neither as co
 12.<a id="endnote-12"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

@@ -887,7 +887,6 @@ For that reason, the strongest sceptical position is not that Rendlesham was inv
 10.<a id="endnote-10"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Lt. Col. Charles Halt, audio recording, 28 December 1980 * * * NIGHT ONE: 26 DECEMBER SSgt. Penniston and Airman [Burroughs](&amp;#123;&amp;#123; &#x27;burroughs/&#x27; | relative_url &amp;#125;&amp;#125;) enter the forest...</p></details>
    Published: December 1980  
 

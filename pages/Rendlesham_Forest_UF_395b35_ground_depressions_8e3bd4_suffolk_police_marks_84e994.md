@@ -897,7 +897,6 @@ The early inspection found only minor ground disturbances that officers consider
 19.<a id="endnote-19"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 20.<a id="endnote-20"></a>
    Source: military-history.fandom.com  

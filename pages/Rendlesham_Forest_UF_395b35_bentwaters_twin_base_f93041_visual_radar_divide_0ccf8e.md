@@ -904,7 +904,6 @@ For that reason, the Rendlesham Forest incident illustrates two distinct standar
 18.<a id="endnote-18"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

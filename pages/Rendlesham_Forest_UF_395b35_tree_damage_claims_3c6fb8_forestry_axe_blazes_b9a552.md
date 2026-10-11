@@ -866,7 +866,6 @@ This does not explain every aspect of the Rendlesham incident, nor does it addre
 12.<a id="endnote-12"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 13.<a id="endnote-13"></a>
    Source: theblackarchive.net  

@@ -866,7 +866,6 @@ The surviving record therefore leaves an evidential gap rather than positive sup
 8.<a id="endnote-8"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

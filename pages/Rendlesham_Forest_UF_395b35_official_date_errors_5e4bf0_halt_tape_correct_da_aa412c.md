@@ -854,7 +854,6 @@ For historians, investigators and sceptics alike, the tape demonstrates that the
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 15.<a id="endnote-15"></a>
    Source: therendleshamforestincident.com  

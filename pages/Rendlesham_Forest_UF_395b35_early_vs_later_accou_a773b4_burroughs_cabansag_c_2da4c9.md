@@ -792,7 +792,6 @@ This does not necessarily prove that Penniston fabricated every later detail. Wi
 5.<a id="endnote-5"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 6.<a id="endnote-6"></a>
    Source: military-history.fandom.com  

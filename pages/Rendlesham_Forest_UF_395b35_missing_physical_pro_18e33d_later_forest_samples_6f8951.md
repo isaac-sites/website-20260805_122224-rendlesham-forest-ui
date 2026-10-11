@@ -874,7 +874,6 @@ Because no comprehensive forensic protocol was implemented in December 1980, lat
 6.<a id="endnote-6"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

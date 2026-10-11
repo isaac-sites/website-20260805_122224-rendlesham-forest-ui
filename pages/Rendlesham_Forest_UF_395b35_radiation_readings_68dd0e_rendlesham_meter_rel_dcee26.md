@@ -846,7 +846,6 @@ For that reason, the reported increases of only a few hundredths of a milliroent
 9.<a id="endnote-9"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 10.<a id="endnote-10"></a>
    Source: sciencedirect.com  

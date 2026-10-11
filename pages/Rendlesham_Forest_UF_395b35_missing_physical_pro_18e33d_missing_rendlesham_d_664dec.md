@@ -903,7 +903,6 @@ The Rendlesham Forest incident remains supported primarily by witness testimony,
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

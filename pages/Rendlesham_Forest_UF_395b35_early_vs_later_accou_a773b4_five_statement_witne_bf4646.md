@@ -840,7 +840,6 @@ Recognising this difference does not resolve what happened in Rendlesham Forest.
 6.<a id="endnote-6"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 7.<a id="endnote-7"></a>
    Source: military-history.fandom.com  

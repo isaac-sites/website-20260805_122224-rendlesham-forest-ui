@@ -1051,7 +1051,6 @@ The fairest conclusion is therefore limited. Members of Halt’s party saw small
 24.<a id="endnote-24"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 25.<a id="endnote-25"></a>
    Source: themorbidtourist.com  

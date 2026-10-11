@@ -1185,7 +1185,6 @@ The gap between these layers is the central credibility issue. Rendlesham’s re
 34.<a id="endnote-34"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -1195,7 +1194,6 @@ The gap between these layers is the central credibility issue. Rendlesham’s re
 36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 37.<a id="endnote-37"></a>
    Source: therendleshamforestincident.com  

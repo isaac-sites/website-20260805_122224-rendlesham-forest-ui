@@ -793,7 +793,6 @@ For that reason, the leadership question is largely settled even though the enco
 3.<a id="endnote-3"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

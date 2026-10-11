@@ -800,7 +800,6 @@ The permission requirement also enhances the historical value of the official re
 4.<a id="endnote-4"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 5.<a id="endnote-5"></a>
    Source: youtube.com  
